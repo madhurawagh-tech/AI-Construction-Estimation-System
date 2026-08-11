@@ -1,0 +1,1001 @@
+Project_ID,Area_Type,Built_Up_Area_sqft,Floors,Wall_Thickness_inches,Roof_Type,Soil_Type,Paint_Type,Flooring,Construction_Quality,Cement_Required_bags,Sand_Required_m3,Aggregate_Required_m3,Steel_Required_kg,Bricks_Required_units,Paint_Required_litres,Total_Material_Cost_INR,Labour_Cost_INR,Total_Construction_Cost_INR
+P0001,Urban,1365,2,9.0,RCC Flat Roof,Medium,Premium Acrylic,Ceramic Tiles,Standard,605,35.3,25.2,4847,12748,486,4489662,3052238,7541900
+P0002,Rural,1035,2,4.5,RCC Flat Roof,Medium,Standard Acrylic,Mosaic,Basic,461,25.7,20.0,4496,8940,490,2561367,1994438,4555805
+P0003,Urban,1337,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,583,33.7,24.5,5666,12086,553,4429102,2800905,7230007
+P0004,Urban,1183,1,9.0,RCC Flat Roof,Soft,Premium Acrylic,Ceramic Tiles,Standard,478,31.5,20.1,4708,10948,569,4619278,2842664,7461942
+P0005,Semi-Urban,1758,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,756,44.9,28.8,7753,14222,644,7053808,5035025,12088833
+P0006,Urban,1692,3,6.0,RCC Flat Roof,Medium,Apex Weather Proof,Italian Marble,Premium,715,38.9,33.8,6313,16726,757,8816980,5965097,14782077
+P0007,Urban,1625,2,6.0,RCC Sloped Roof,Medium,Apex Weather Proof,Granite,Premium,642,40.8,29.2,6540,13845,694,6574577,4578771,11153348
+P0008,Rural,1176,1,4.5,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,519,27.7,18.4,5161,11655,563,2980437,1916998,4897435
+P0009,Semi-Urban,1375,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,543,35.9,21.1,5982,12361,580,4496871,3053986,7550857
+P0010,Semi-Urban,1189,2,6.0,Slab Roof,Medium,Premium Acrylic,Ceramic Tiles,Standard,524,31.2,22.8,4990,11129,526,4446622,2901186,7347808
+P0011,Urban,1713,2,9.0,RCC Flat Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,651,43.4,32.2,6438,14365,621,8348562,6055791,14404353
+P0012,Urban,1047,1,6.0,Metal Sheet Roof,Hard,Standard Acrylic,Ceramic Tiles,Basic,468,25.2,19.0,4640,8590,513,2474746,1641097,4115843
+P0013,Urban,966,2,6.0,RCC Flat Roof,Hard,Distemper,Mosaic,Basic,434,25.2,16.6,4006,8876,393,2425474,1875488,4300962
+P0014,Semi-Urban,1457,1,6.0,RCC Flat Roof,Soft,Lustre Paint,Imported Vitrified Tiles,Premium,607,39.3,24.0,6323,13908,560,6734585,5124582,11859167
+P0015,Semi-Urban,1491,3,9.0,RCC Sloped Roof,Soft,Royal Emulsion,Italian Marble,Premium,599,35.7,27.8,6330,12525,716,8932609,5883573,14816182
+P0016,Urban,1426,3,6.0,RCC Sloped Roof,Medium,Royal Emulsion,Imported Vitrified Tiles,Premium,617,36.7,22.3,5037,14034,631,7510891,4846771,12357662
+P0017,Urban,1672,2,6.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,673,42.7,28.7,7497,13876,701,6360683,4225857,10586540
+P0018,Urban,1315,1,9.0,Slab Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,509,30.8,26.2,4789,11832,582,4801948,3172751,7974699
+P0019,Urban,1151,2,9.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,516,26.7,21.3,4973,9302,518,4325680,2684090,7009770
+P0020,Urban,1408,3,6.0,RCC Flat Roof,Medium,Apex Weather Proof,Granite,Premium,614,33.8,26.9,5040,13783,608,8819542,5661564,14481106
+P0021,Urban,1446,1,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,611,34.7,25.1,6137,14089,600,4300427,3343150,7643577
+P0022,Urban,1610,2,9.0,RCC Sloped Roof,Medium,Lustre Paint,Granite,Premium,619,35.7,26.2,6379,15675,739,6108683,3995622,10104305
+P0023,Urban,1763,3,9.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,718,45.2,31.7,7568,16413,879,6768389,4961285,11729674
+P0024,Urban,1167,2,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,462,32.5,18.6,5081,10484,451,4520723,2863123,7383846
+P0025,Urban,1233,2,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,496,32.8,19.3,5511,10983,475,4241436,3273380,7514816
+P0026,Urban,959,1,4.5,RCC Flat Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,388,23.3,17.3,3698,8695,448,2722364,1797409,4519773
+P0027,Urban,1789,2,6.0,RCC Flat Roof,Hard,Royal Emulsion,Imported Vitrified Tiles,Premium,684,40.7,30.9,7932,15443,762,8055527,6265553,14321080
+P0028,Urban,1365,2,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,568,32.8,24.1,4949,11282,507,4922872,3063757,7986629
+P0029,Semi-Urban,1278,2,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,573,31.0,19.3,4785,12347,613,4341199,2821182,7162381
+P0030,Urban,1688,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,660,43.3,28.0,7370,16857,781,7903311,6074240,13977551
+P0031,Urban,1247,2,6.0,RCC Flat Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,511,33.6,19.5,5043,9990,497,4137414,2971695,7109109
+P0032,Urban,1715,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,671,44.3,32.2,6860,15580,845,8232361,5244974,13477335
+P0033,Rural,1552,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Granite,Premium,678,40.8,30.7,5460,13023,544,8425098,5643733,14068831
+P0034,Semi-Urban,1152,1,4.5,RCC Flat Roof,Hard,Distemper,Ceramic Tiles,Basic,479,30.0,22.6,4645,10554,418,2559066,1684415,4243481
+P0035,Urban,1039,1,4.5,RCC Flat Roof,Hard,Distemper,Ceramic Tiles,Basic,402,26.4,16.9,4636,9316,489,2951265,2025459,4976724
+P0036,Urban,1072,1,6.0,RCC Flat Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,420,25.9,20.9,4577,9769,416,2678534,1954617,4633151
+P0037,Semi-Urban,1566,2,6.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,675,42.6,25.2,5630,12602,698,8502567,5753304,14255871
+P0038,Urban,1477,2,6.0,RCC Flat Roof,Hard,Royal Emulsion,Granite,Premium,607,36.4,27.5,5192,12823,698,6653358,4506377,11159735
+P0039,Urban,1258,1,6.0,Slab Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,509,28.2,22.1,4488,12077,484,4683238,3222286,7905524
+P0040,Semi-Urban,1449,1,6.0,RCC Flat Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,624,35.9,22.2,5886,14367,545,4601239,3049637,7650876
+P0041,Urban,1557,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Imported Vitrified Tiles,Premium,617,38.0,24.5,6994,15342,671,7740892,4938245,12679137
+P0042,Urban,1380,2,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,546,33.2,23.3,5307,11699,588,4646706,2976879,7623585
+P0043,Urban,1710,1,9.0,RCC Flat Roof,Medium,Lustre Paint,Granite,Premium,697,43.2,31.0,7138,15501,783,8363392,6348543,14711935
+P0044,Urban,1092,1,4.5,RCC Flat Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,477,24.9,21.1,4829,9799,481,2919616,1899118,4818734
+P0045,Urban,1789,1,9.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,748,49.7,30.7,6819,16122,744,7086514,5426315,12512829
+P0046,Semi-Urban,1403,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,580,37.2,25.4,5327,12431,526,4073293,3142744,7216037
+P0047,Semi-Urban,1662,2,6.0,RCC Flat Roof,Soft,Apex Weather Proof,Granite,Premium,667,42.8,29.3,6525,13730,802,6648765,4678171,11326936
+P0048,Urban,1241,2,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,507,33.2,22.2,5188,10398,549,4268953,3098805,7367758
+P0049,Semi-Urban,1330,2,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,584,30.0,23.2,4854,11503,612,4490308,3138990,7629298
+P0050,Urban,1441,3,9.0,RCC Sloped Roof,Medium,Lustre Paint,Granite,Premium,591,33.9,27.7,5098,14126,604,7162262,4810118,11972380
+P0051,Semi-Urban,1149,1,6.0,RCC Flat Roof,Soft,Distemper,Mosaic,Basic,472,25.6,17.5,4878,10706,540,2772213,2122904,4895117
+P0052,Urban,1181,1,4.5,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,463,26.7,21.6,5036,10074,417,2547033,1961546,4508579
+P0053,Rural,1053,1,4.5,RCC Flat Roof,Hard,Distemper,Ceramic Tiles,Basic,447,26.5,16.0,4705,10106,414,2658013,1637431,4295444
+P0054,Semi-Urban,1044,1,6.0,RCC Flat Roof,Hard,Distemper,Ceramic Tiles,Basic,403,25.3,18.5,4059,8693,408,2821393,1761029,4582422
+P0055,Semi-Urban,1262,2,6.0,Slab Roof,Soft,Premium Acrylic,Ceramic Tiles,Standard,501,33.5,21.8,5479,11934,588,4492904,3003143,7496047
+P0056,Urban,1184,1,6.0,Metal Sheet Roof,Hard,Distemper,Ceramic Tiles,Basic,529,29.5,18.7,4549,10450,549,2747947,1797078,4545025
+P0057,Semi-Urban,1422,2,9.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,541,33.4,26.5,6387,11658,583,6402074,4127579,10529653
+P0058,Urban,1783,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Granite,Premium,783,48.2,34.2,6260,16936,826,7674232,5101192,12775424
+P0059,Semi-Urban,1469,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Imported Vitrified Tiles,Premium,619,35.8,25.1,6163,11761,650,8260607,5949244,14209851
+P0060,Semi-Urban,1518,3,9.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,582,37.8,27.3,6227,12213,604,6260024,4204928,10464952
+P0061,Urban,1225,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,493,30.1,18.9,4557,11265,563,4770394,2925020,7695414
+P0062,Rural,1597,2,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Italian Marble,Premium,670,40.8,25.4,6167,13844,565,7418361,5794464,13212825
+P0063,Semi-Urban,1030,2,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,424,25.6,17.7,4570,9694,458,2405698,1867372,4273070
+P0064,Rural,1429,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,608,39.6,21.9,5083,12238,556,4546465,3362924,7909389
+P0065,Rural,1735,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,664,44.6,30.9,6672,14973,808,6357054,4890676,11247730
+P0066,Urban,1352,2,6.0,Slab Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,582,37.7,22.0,5616,11351,587,4545411,3187037,7732448
+P0067,Rural,1560,1,6.0,RCC Flat Roof,Medium,Royal Emulsion,Granite,Premium,605,42.4,29.0,5565,14688,673,7367831,5674805,13042636
+P0068,Urban,1034,1,6.0,RCC Flat Roof,Hard,Standard Acrylic,Ceramic Tiles,Basic,447,24.6,19.6,3734,9008,513,2725078,1759618,4484696
+P0069,Urban,1676,1,9.0,RCC Flat Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,740,45.6,27.1,6622,16709,780,6570446,5128440,11698886
+P0070,Urban,1149,1,4.5,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,444,28.3,18.4,4236,9408,463,2702682,1761248,4463930
+P0071,Urban,1086,1,6.0,RCC Flat Roof,Hard,Distemper,Ceramic Tiles,Basic,436,29.5,21.2,4101,10824,403,2467185,1845163,4312348
+P0072,Urban,1779,3,9.0,RCC Flat Roof,Soft,Apex Weather Proof,Italian Marble,Premium,768,42.6,35.5,7089,14667,816,8383608,6086340,14469948
+P0073,Rural,1458,1,6.0,RCC Flat Roof,Medium,Royal Emulsion,Imported Vitrified Tiles,Premium,562,38.5,23.2,6354,14052,628,8978301,5920610,14898911
+P0074,Urban,1124,1,4.5,RCC Flat Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,446,25.5,17.3,4742,9936,546,2702285,1768882,4471167
+P0075,Urban,1428,2,6.0,Slab Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,555,37.2,23.7,5978,11622,537,4654638,2959138,7613776
+P0076,Urban,1277,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,512,33.1,25.1,5582,12172,597,4701433,3135607,7837040
+P0077,Urban,1168,1,4.5,RCC Flat Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,474,32.5,18.2,4581,9442,538,3018340,1888854,4907194
+P0078,Urban,1482,3,9.0,RCC Flat Roof,Medium,Apex Weather Proof,Granite,Premium,621,38.2,26.2,6128,13189,567,8106468,6185239,14291707
+P0079,Urban,1414,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,610,31.5,27.6,6154,13200,620,4456321,2806994,7263315
+P0080,Urban,1461,3,6.0,RCC Flat Roof,Soft,Apex Weather Proof,Granite,Premium,561,39.4,26.3,5281,11962,710,6238487,4156358,10394845
+P0081,Semi-Urban,1014,1,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,409,23.3,16.1,4510,9014,474,2919465,1959513,4878978
+P0082,Semi-Urban,1409,1,6.0,RCC Flat Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,585,36.4,21.6,5289,12291,593,4013281,3118411,7131692
+P0083,Urban,1492,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Granite,Premium,623,40.5,22.7,6465,14454,585,6691228,4692843,11384071
+P0084,Urban,1505,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,608,37.7,29.2,6010,14153,750,6299340,4793208,11092548
+P0085,Urban,1507,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,648,41.8,28.0,6574,12062,689,7300766,4672114,11972880
+P0086,Urban,1545,1,9.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,668,34.6,23.8,5955,15269,695,8625133,5732854,14357987
+P0087,Urban,1415,2,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,611,35.6,27.1,6355,13640,642,4495064,3098596,7593660
+P0088,Urban,1362,2,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,598,33.3,21.0,5505,13243,597,4063442,3020949,7084391
+P0089,Urban,1121,2,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,481,29.3,18.9,4110,9933,416,2729731,1720391,4450122
+P0090,Urban,1306,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,505,35.4,23.1,5670,11963,566,4051681,3102777,7154458
+P0091,Urban,1775,3,9.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,725,43.3,29.4,6473,15931,655,9066591,5793535,14860126
+P0092,Urban,1184,2,9.0,Slab Roof,Soft,Plastic Emulsion,Ceramic Tiles,Standard,482,28.8,19.8,4785,9837,512,4369587,3005215,7374802
+P0093,Semi-Urban,1128,1,6.0,Metal Sheet Roof,Hard,Distemper,Ceramic Tiles,Basic,447,30.4,20.0,4134,10339,563,2750498,2083151,4833649
+P0094,Semi-Urban,1422,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,555,38.6,26.4,6266,11752,624,4295175,2912133,7207308
+P0095,Urban,1195,1,6.0,RCC Flat Roof,Soft,Distemper,Mosaic,Basic,533,27.4,20.7,5354,10715,573,2654231,1804234,4458465
+P0096,Urban,1365,2,9.0,Slab Roof,Medium,Premium Acrylic,Ceramic Tiles,Standard,562,33.7,24.6,5584,13121,575,4515490,2770292,7285782
+P0097,Urban,1374,2,6.0,Slab Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,611,30.4,23.9,5753,12977,623,3978262,3024905,7003167
+P0098,Urban,1343,1,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,603,30.3,20.2,4759,11662,597,4151358,3207356,7358714
+P0099,Urban,1587,2,9.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,611,38.8,27.0,5659,13803,581,8936012,5749442,14685454
+P0100,Rural,1460,1,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Italian Marble,Premium,603,33.4,27.1,6083,12296,700,6051976,4309606,10361582
+P0101,Urban,1454,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Imported Vitrified Tiles,Premium,613,35.1,26.5,5267,14216,618,6316667,4444980,10761647
+P0102,Urban,1201,2,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,503,27.3,23.5,5069,10572,448,4673378,2951404,7624782
+P0103,Semi-Urban,1760,3,9.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,755,39.4,33.8,6166,14948,811,7879060,5729547,13608607
+P0104,Urban,1296,2,9.0,RCC Flat Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,526,35.8,23.8,4686,10477,563,4532507,2827726,7360233
+P0105,Semi-Urban,1124,1,6.0,RCC Flat Roof,Soft,Standard Acrylic,Mosaic,Basic,482,26.7,17.5,4812,10440,401,2719487,1956360,4675847
+P0106,Rural,1440,2,6.0,RCC Flat Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,565,36.4,24.6,6076,12588,691,7549083,4952922,12502005
+P0107,Semi-Urban,1322,1,6.0,Slab Roof,Hard,Premium Acrylic,Ceramic Tiles,Standard,507,34.5,22.9,5392,10801,471,4677837,3118402,7796239
+P0108,Semi-Urban,1002,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,389,24.5,17.5,3912,9079,440,2680775,2101239,4782014
+P0109,Urban,1587,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,698,40.4,24.4,6161,13863,598,8684985,6132510,14817495
+P0110,Urban,1454,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,651,39.4,22.0,6395,13909,679,6878811,4830207,11709018
+P0111,Urban,1594,3,9.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,670,44.5,25.8,6424,14827,712,6835947,4678631,11514578
+P0112,Semi-Urban,1489,1,6.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,650,38.4,25.2,6215,12685,598,6780859,4244046,11024905
+P0113,Urban,996,1,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,381,24.4,16.4,4244,8673,490,2761284,1708703,4469987
+P0114,Semi-Urban,1139,1,6.0,RCC Flat Roof,Hard,Distemper,Ceramic Tiles,Basic,449,25.4,21.9,5104,10918,544,2831607,2097053,4928660
+P0115,Rural,1401,2,9.0,Slab Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,590,31.4,25.4,6278,11740,656,4422323,2774602,7196925
+P0116,Rural,1194,2,6.0,RCC Flat Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,473,29.6,22.6,5325,11375,571,2957152,2002982,4960134
+P0117,Semi-Urban,1169,2,4.5,RCC Flat Roof,Medium,Distemper,Mosaic,Basic,503,26.4,20.0,4125,10476,525,2713293,2071127,4784420
+P0118,Urban,1554,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,594,34.7,26.8,5867,14365,775,6991844,4997338,11989182
+P0119,Urban,1142,1,4.5,Metal Sheet Roof,Hard,Distemper,Ceramic Tiles,Basic,437,25.4,18.1,4986,9781,562,2626831,1788772,4415603
+P0120,Urban,1248,1,9.0,RCC Flat Roof,Medium,Premium Acrylic,Ceramic Tiles,Standard,509,33.2,23.9,5477,11343,475,4360965,3219123,7580088
+P0121,Urban,995,1,4.5,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,434,26.9,16.6,4172,9494,445,2614313,1979489,4593802
+P0122,Semi-Urban,1197,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,459,28.9,22.3,4429,10063,420,2661039,1878055,4539094
+P0123,Semi-Urban,1731,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,697,45.5,33.0,6372,15132,840,6241899,4017605,10259504
+P0124,Rural,1612,2,6.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,642,40.5,26.3,6655,14449,651,8496201,5275039,13771240
+P0125,Semi-Urban,1756,1,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Imported Vitrified Tiles,Premium,752,46.2,30.4,7763,16487,806,6514441,4135265,10649706
+P0126,Urban,1222,1,6.0,Slab Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,512,33.8,21.4,4741,10174,571,4715991,3091079,7807070
+P0127,Urban,1065,1,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,442,27.9,18.8,4303,9435,422,2370580,1654612,4025192
+P0128,Urban,1139,1,4.5,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,455,31.0,20.9,4893,9682,505,2948650,2012862,4961512
+P0129,Semi-Urban,1609,2,6.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,657,44.4,27.6,7044,14820,622,8447287,6083148,14530435
+P0130,Urban,1363,1,6.0,RCC Flat Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,578,31.6,23.3,5794,11180,533,4228321,3105140,7333461
+P0131,Urban,1367,2,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,537,34.8,21.9,5494,11138,602,4716456,3263911,7980367
+P0132,Semi-Urban,1679,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,672,37.9,30.2,6923,15609,654,7377886,5775615,13153501
+P0133,Rural,1665,2,9.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,652,37.8,28.7,6846,14029,817,6307012,4947452,11254464
+P0134,Semi-Urban,1424,1,9.0,RCC Flat Roof,Soft,Royal Emulsion,Imported Vitrified Tiles,Premium,563,37.5,25.8,6036,12003,640,7742810,5383213,13126023
+P0135,Semi-Urban,1193,2,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,454,30.5,21.6,4936,10121,545,2446872,1880172,4327044
+P0136,Urban,1446,1,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Italian Marble,Premium,592,33.7,26.0,5921,12644,578,8820853,5566496,14387349
+P0137,Urban,1226,2,6.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,532,30.1,19.7,5271,10626,588,4607869,2885631,7493500
+P0138,Semi-Urban,1336,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,568,36.9,20.5,5777,11469,556,3948854,3086153,7035007
+P0139,Urban,1210,2,6.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,494,33.3,18.8,4859,11583,594,4537640,2964990,7502630
+P0140,Semi-Urban,1032,1,4.5,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,417,24.9,19.8,4426,8891,502,2978758,1847729,4826487
+P0141,Urban,1055,1,4.5,RCC Flat Roof,Soft,Distemper,Mosaic,Basic,426,26.5,20.0,4625,9167,442,2546776,1807648,4354424
+P0142,Urban,1638,2,6.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,622,43.1,30.6,6576,13632,593,6441815,5037898,11479713
+P0143,Urban,1271,1,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,488,30.9,20.6,4727,12607,562,4682533,3208321,7890854
+P0144,Urban,1418,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,595,31.4,28.0,5950,12749,694,7121005,5023715,12144720
+P0145,Rural,1668,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,726,37.4,29.0,6773,15440,756,7225285,5336138,12561423
+P0146,Urban,1519,3,9.0,RCC Sloped Roof,Hard,Lustre Paint,Italian Marble,Premium,633,38.1,29.0,5931,13623,534,7960412,5656805,13617217
+P0147,Semi-Urban,1197,1,6.0,RCC Flat Roof,Hard,Premium Acrylic,Ceramic Tiles,Standard,500,33.4,20.7,4804,11944,460,4325430,2690077,7015507
+P0148,Urban,1152,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,490,30.2,17.3,4282,10740,486,4172350,3274036,7446386
+P0149,Semi-Urban,1606,1,9.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,686,42.6,24.2,5953,15138,655,8314949,5549098,13864047
+P0150,Urban,1799,3,9.0,RCC Flat Roof,Medium,Royal Emulsion,Granite,Premium,703,44.7,33.4,6783,15119,714,6867325,5086450,11953775
+P0151,Urban,1153,2,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,474,32.0,19.8,4668,10453,513,2676565,1748285,4424850
+P0152,Urban,1555,2,6.0,RCC Flat Roof,Medium,Lustre Paint,Granite,Premium,680,38.5,31.0,6665,14846,718,7194682,5448939,12643621
+P0153,Urban,1421,1,9.0,RCC Flat Roof,Medium,Lustre Paint,Granite,Premium,572,38.9,27.6,5435,13928,709,7509317,4810633,12319950
+P0154,Semi-Urban,1331,2,9.0,Slab Roof,Soft,Premium Acrylic,Ceramic Tiles,Standard,568,29.3,23.1,5418,11457,529,4477492,2771516,7249008
+P0155,Semi-Urban,1131,1,4.5,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,479,30.1,17.2,4905,10449,491,2897272,1951906,4849178
+P0156,Semi-Urban,1424,1,9.0,RCC Flat Roof,Medium,Lustre Paint,Granite,Premium,597,38.7,24.1,5512,13153,633,7607625,5327056,12934681
+P0157,Urban,1395,2,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,596,33.8,27.5,5115,12556,632,4510189,2983958,7494147
+P0158,Semi-Urban,1032,2,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,424,28.6,15.8,4319,8307,387,2510512,1764775,4275287
+P0159,Urban,1565,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,695,39.9,28.1,6032,12682,555,7861046,5567455,13428501
+P0160,Urban,1265,1,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,513,33.9,24.6,4585,10627,483,4575310,3031536,7606846
+P0161,Semi-Urban,1356,2,6.0,RCC Flat Roof,Hard,Premium Acrylic,Ceramic Tiles,Standard,596,37.5,20.9,5268,11040,517,4371487,3247504,7618991
+P0162,Urban,1201,2,6.0,Slab Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,469,27.9,21.8,4467,9657,569,4229836,3038726,7268562
+P0163,Urban,1185,1,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,457,29.5,19.6,4815,11385,439,4343820,2958658,7302478
+P0164,Urban,1261,1,9.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,504,30.5,20.1,4851,11468,628,4285390,2858688,7144078
+P0165,Urban,1566,2,9.0,RCC Sloped Roof,Hard,Royal Emulsion,Italian Marble,Premium,666,39.7,28.9,6511,12894,735,5801493,4423313,10224806
+P0166,Semi-Urban,1173,1,4.5,Metal Sheet Roof,Hard,Distemper,Ceramic Tiles,Basic,485,30.3,18.9,4753,10257,526,2510461,1905684,4416145
+P0167,Urban,1621,3,9.0,RCC Flat Roof,Soft,Royal Emulsion,Granite,Premium,679,39.3,30.7,6083,16011,784,6340002,4586349,10926351
+P0168,Semi-Urban,1724,1,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Italian Marble,Premium,686,37.9,33.4,7400,15955,797,7322401,5543714,12866115
+P0169,Urban,1672,2,6.0,RCC Sloped Roof,Soft,Royal Emulsion,Imported Vitrified Tiles,Premium,727,42.7,25.1,7143,15725,739,7119791,4636305,11756096
+P0170,Urban,1162,2,6.0,Slab Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,469,29.1,21.0,5125,10480,494,4337511,3366572,7704083
+P0171,Urban,1286,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,553,29.2,23.2,4862,10734,523,4591760,2959399,7551159
+P0172,Urban,1570,2,6.0,RCC Flat Roof,Medium,Apex Weather Proof,Imported Vitrified Tiles,Premium,636,37.5,29.4,6171,12834,616,8047582,5706266,13753848
+P0173,Urban,1212,1,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,513,31.0,21.2,4666,11908,485,4306476,3025728,7332204
+P0174,Semi-Urban,1627,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,647,39.1,31.2,7216,13620,660,7828918,4886188,12715106
+P0175,Urban,1333,2,6.0,Slab Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,550,34.6,25.0,5670,12204,647,4319562,2772797,7092359
+P0176,Semi-Urban,1670,2,9.0,RCC Flat Roof,Medium,Apex Weather Proof,Italian Marble,Premium,723,39.7,27.5,6023,14829,767,6335512,3942515,10278027
+P0177,Semi-Urban,1265,1,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,533,31.1,20.0,4574,11503,613,4565631,3297504,7863135
+P0178,Semi-Urban,1167,1,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,520,26.3,19.0,4994,9566,421,4454985,3203675,7658660
+P0179,Urban,1146,1,6.0,Metal Sheet Roof,Hard,Distemper,Ceramic Tiles,Basic,443,26.4,20.4,4350,11318,541,2838227,1746850,4585077
+P0180,Urban,1583,2,6.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,669,37.2,28.3,6109,15271,748,8740505,6108112,14848617
+P0181,Urban,1574,1,9.0,RCC Flat Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,660,36.4,24.7,6416,14990,735,6810615,5002183,11812798
+P0182,Urban,1596,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,624,41.4,31.7,6483,15049,574,5899617,4184164,10083781
+P0183,Urban,1184,1,6.0,RCC Flat Roof,Medium,Distemper,Mosaic,Basic,453,28.3,20.4,5208,11750,493,2790749,1822046,4612795
+P0184,Urban,1114,1,4.5,RCC Flat Roof,Hard,Standard Acrylic,Ceramic Tiles,Basic,456,25.6,21.6,4519,9427,473,2740318,1797464,4537782
+P0185,Rural,1663,1,9.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,668,37.0,31.4,6482,14780,804,6655601,4446628,11102229
+P0186,Urban,1257,1,9.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,504,32.0,20.9,4448,10739,441,4914452,3028722,7943174
+P0187,Rural,990,1,6.0,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,419,24.5,18.7,4452,8298,414,2574941,1820213,4395154
+P0188,Urban,1351,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,529,33.1,25.4,5941,11035,552,4074228,3123867,7198095
+P0189,Urban,1265,1,6.0,RCC Flat Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,504,30.0,20.7,4472,12465,483,4483639,3178079,7661718
+P0190,Urban,1586,2,6.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,646,44.2,28.1,5987,14938,619,8777560,5512215,14289775
+P0191,Urban,1779,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,791,40.2,30.7,6826,17329,644,7301134,5448207,12749341
+P0192,Semi-Urban,1073,2,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,423,25.5,21.0,4342,10158,431,2367831,1683462,4051293
+P0193,Urban,1131,1,4.5,RCC Flat Roof,Hard,Distemper,Ceramic Tiles,Basic,499,31.0,18.6,4218,9978,436,2504207,1667087,4171294
+P0194,Semi-Urban,1199,1,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,462,33.5,18.9,5381,11935,562,4600520,3072571,7673091
+P0195,Urban,1738,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Granite,Premium,721,45.0,26.3,6829,14873,641,8110677,6219830,14330507
+P0196,Semi-Urban,1795,1,9.0,RCC Sloped Roof,Hard,Lustre Paint,Granite,Premium,713,48.8,27.8,6508,17875,809,7707243,4910759,12618002
+P0197,Urban,1331,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,526,34.8,21.5,5490,12636,509,4326440,3350043,7676483
+P0198,Urban,1161,2,4.5,Metal Sheet Roof,Hard,Distemper,Ceramic Tiles,Basic,451,25.7,21.0,5000,11243,490,2794215,1811781,4605996
+P0199,Semi-Urban,1195,1,6.0,Metal Sheet Roof,Hard,Standard Acrylic,Ceramic Tiles,Basic,501,29.9,18.3,4289,10996,479,2905587,1818667,4724254
+P0200,Urban,985,2,6.0,Metal Sheet Roof,Soft,Distemper,Ceramic Tiles,Basic,432,25.3,17.6,3697,9369,356,2550012,1593268,4143280
+P0201,Urban,1380,1,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,537,31.1,26.4,6097,12833,504,4163487,2964287,7127774
+P0202,Semi-Urban,1734,3,6.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,757,47.5,33.2,7627,15790,818,8103769,5795335,13899104
+P0203,Semi-Urban,1618,2,6.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,665,40.8,31.3,7273,14829,763,8661891,6282286,14944177
+P0204,Urban,1106,2,6.0,RCC Flat Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,429,28.1,18.0,4760,9790,552,2489949,1912754,4402703
+P0205,Semi-Urban,1235,1,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,514,29.3,20.4,4665,11785,553,4680536,2993165,7673701
+P0206,Rural,1666,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,668,42.8,32.5,7180,15270,765,7198449,5172372,12370821
+P0207,Semi-Urban,1795,3,9.0,RCC Flat Roof,Soft,Lustre Paint,Italian Marble,Premium,689,47.7,33.2,6877,16785,734,7464826,4866081,12330907
+P0208,Urban,1364,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,525,31.4,20.9,5455,11202,500,4569395,2842884,7412279
+P0209,Semi-Urban,1616,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,706,44.7,29.5,7198,13417,681,7308547,4951885,12260432
+P0210,Urban,1707,2,6.0,RCC Flat Roof,Hard,Royal Emulsion,Granite,Premium,674,38.0,28.7,6142,14053,662,6936959,5070349,12007308
+P0211,Urban,1181,2,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,498,26.6,23.3,5025,10833,560,4336841,3341550,7678391
+P0212,Urban,1371,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,552,33.4,24.7,5897,12255,566,4728660,2901432,7630092
+P0213,Urban,1378,2,9.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,578,33.2,24.9,4856,11344,508,4510900,3384164,7895064
+P0214,Urban,1585,2,6.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,691,40.1,30.3,6548,15166,697,8047891,5712752,13760643
+P0215,Rural,1373,1,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,595,34.5,22.2,5720,11203,571,4296941,3244172,7541113
+P0216,Urban,1434,1,9.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,559,35.9,22.0,5121,13117,623,6746529,4264940,11011469
+P0217,Urban,1726,1,6.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,770,46.7,28.4,6174,14394,636,8396883,6402071,14798954
+P0218,Urban,1428,2,9.0,Slab Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,550,31.5,26.2,5914,12597,604,4238288,3007558,7245846
+P0219,Urban,1398,1,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,554,31.6,22.2,6007,13078,603,4316905,3018465,7335370
+P0220,Rural,1063,1,6.0,Metal Sheet Roof,Medium,Distemper,Mosaic,Basic,458,26.5,19.3,4506,9805,374,2328327,1744407,4072734
+P0221,Semi-Urban,1336,1,6.0,RCC Flat Roof,Hard,Premium Acrylic,Ceramic Tiles,Standard,568,33.1,24.6,5502,12207,479,4348813,2923837,7272650
+P0222,Semi-Urban,1385,2,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,555,36.5,25.6,5663,13680,557,4593624,3400457,7994081
+P0223,Semi-Urban,1746,2,6.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,732,41.1,32.3,7101,16748,803,6559133,4434936,10994069
+P0224,Urban,1250,2,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,554,29.3,19.3,4773,10261,461,4240184,2892997,7133181
+P0225,Urban,1640,2,6.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,637,41.9,27.2,6768,15771,724,5866799,4287855,10154654
+P0226,Urban,1735,1,6.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,734,39.0,26.8,6370,15677,662,6714575,4922529,11637104
+P0227,Urban,964,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,403,25.3,17.7,4152,9420,455,2700114,2111751,4811865
+P0228,Semi-Urban,1254,2,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,488,34.1,21.9,5235,10631,581,4365409,2842990,7208399
+P0229,Urban,972,1,6.0,RCC Flat Roof,Medium,Distemper,Mosaic,Basic,379,22.3,16.2,3454,8130,480,2583297,1827385,4410682
+P0230,Semi-Urban,1344,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,536,31.2,25.4,5926,11747,621,4742439,2983671,7726110
+P0231,Semi-Urban,1051,1,4.5,Metal Sheet Roof,Soft,Distemper,Mosaic,Basic,405,26.9,18.3,4252,10354,505,2539407,1643406,4182813
+P0232,Urban,1364,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,547,30.5,21.7,4781,12127,494,4754679,3157138,7911817
+P0233,Urban,1328,2,6.0,Slab Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,567,31.2,25.7,4872,10766,607,4675020,3268554,7943574
+P0234,Semi-Urban,1190,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,491,31.8,23.7,5274,11742,488,4342378,3041019,7383397
+P0235,Semi-Urban,1494,3,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Italian Marble,Premium,668,39.0,27.1,5633,12695,734,8443620,6167339,14610959
+P0236,Semi-Urban,1405,1,6.0,Slab Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,585,34.6,27.3,5627,12666,520,4576078,2817042,7393120
+P0237,Urban,1488,2,9.0,RCC Flat Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,633,36.5,25.7,5589,14142,635,6004993,4361826,10366819
+P0238,Urban,1724,2,6.0,RCC Flat Roof,Medium,Royal Emulsion,Imported Vitrified Tiles,Premium,667,43.7,30.3,6519,16627,798,9046691,5931980,14978671
+P0239,Semi-Urban,1246,2,6.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,493,33.0,24.4,4495,10547,576,4451956,3270827,7722783
+P0240,Semi-Urban,1581,2,9.0,RCC Flat Roof,Medium,Apex Weather Proof,Imported Vitrified Tiles,Premium,601,42.2,27.4,7096,14175,787,6298374,4107446,10405820
+P0241,Urban,1187,1,6.0,RCC Flat Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,530,27.0,17.9,5227,9658,592,2800570,1737824,4538394
+P0242,Urban,1148,1,6.0,RCC Flat Roof,Medium,Distemper,Mosaic,Basic,508,28.7,19.1,4140,11373,412,2622084,1915500,4537584
+P0243,Urban,1166,2,6.0,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,505,26.0,22.5,4219,9728,491,2610701,1709700,4320401
+P0244,Urban,1203,1,6.0,RCC Flat Roof,Soft,Premium Acrylic,Ceramic Tiles,Standard,531,27.9,19.8,4558,10531,492,4409531,3030539,7440070
+P0245,Urban,1409,1,9.0,RCC Flat Roof,Medium,Royal Emulsion,Granite,Premium,547,34.4,26.7,5242,11796,694,7704956,5751276,13456232
+P0246,Urban,1046,1,4.5,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,405,29.2,17.7,4471,9084,464,2840239,2129376,4969615
+P0247,Urban,1300,2,9.0,RCC Flat Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,555,35.8,23.5,5622,12190,562,4560499,3377564,7938063
+P0248,Urban,1188,1,6.0,RCC Flat Roof,Medium,Distemper,Mosaic,Basic,468,29.5,22.6,4372,9765,573,2884151,2083591,4967742
+P0249,Semi-Urban,1140,1,6.0,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,476,26.5,20.2,4254,11055,466,2313500,1711847,4025347
+P0250,Semi-Urban,966,1,6.0,RCC Flat Roof,Soft,Distemper,Mosaic,Basic,404,24.4,15.4,3541,9498,385,2528943,1813895,4342838
+P0251,Semi-Urban,1737,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,686,47.3,26.8,6926,16297,676,6986702,4707414,11694116
+P0252,Semi-Urban,1447,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,634,40.4,27.4,5934,12557,624,4044306,3146030,7190336
+P0253,Semi-Urban,974,1,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,382,25.8,17.3,3607,8360,450,2618472,1827483,4445955
+P0254,Urban,1652,2,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Granite,Premium,699,43.1,30.3,6626,14632,591,8328019,6508336,14836355
+P0255,Urban,1736,3,9.0,RCC Flat Roof,Medium,Royal Emulsion,Granite,Premium,753,48.4,31.0,6669,16139,625,7162516,4505787,11668303
+P0256,Urban,1272,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,559,28.6,21.3,5317,10873,603,4428890,2898952,7327842
+P0257,Semi-Urban,1080,1,4.5,RCC Flat Roof,Medium,Distemper,Mosaic,Basic,460,26.6,21.3,4556,10649,463,2370686,1748419,4119105
+P0258,Urban,1294,2,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,556,35.4,23.2,4689,10666,592,4411803,3314281,7726084
+P0259,Urban,1289,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,506,29.0,22.1,5360,11440,504,4443587,3043624,7487211
+P0260,Urban,1615,2,6.0,RCC Flat Roof,Medium,Apex Weather Proof,Italian Marble,Premium,710,35.9,24.6,6659,13123,643,8803960,5860377,14664337
+P0261,Urban,1206,1,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Ceramic Tiles,Standard,478,27.9,21.1,5148,9797,526,4071928,3107670,7179598
+P0262,Urban,1075,1,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,438,27.6,20.8,4134,10005,432,2419622,1633121,4052743
+P0263,Semi-Urban,1742,3,9.0,RCC Sloped Roof,Medium,Royal Emulsion,Granite,Premium,696,44.9,30.1,6936,16576,683,6460699,4696088,11156787
+P0264,Rural,1167,2,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Ceramic Tiles,Standard,489,29.3,18.1,4103,11585,474,4206870,2849354,7056224
+P0265,Urban,975,2,4.5,RCC Flat Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,407,22.6,18.1,3677,8416,464,2756384,1926729,4683113
+P0266,Semi-Urban,1404,2,6.0,RCC Flat Roof,Hard,Premium Acrylic,Ceramic Tiles,Standard,631,34.7,22.8,5535,13611,534,4568194,2834178,7402372
+P0267,Urban,1253,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Ceramic Tiles,Standard,483,31.6,24.5,4871,12102,463,4920242,3065561,7985803
+P0268,Semi-Urban,1207,1,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,537,28.0,22.9,5115,9810,492,4581879,3359455,7941334
+P0269,Urban,1441,2,6.0,Slab Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,643,33.6,24.0,6133,12662,635,4683390,3299556,7982946
+P0270,Semi-Urban,1475,2,6.0,RCC Flat Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,649,37.6,27.1,5187,12799,692,6291124,4850531,11141655
+P0271,Urban,1164,1,6.0,RCC Flat Roof,Hard,Distemper,Mosaic,Basic,476,29.1,22.8,4908,10667,546,2805568,1779728,4585296
+P0272,Urban,1185,1,6.0,RCC Flat Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,459,26.3,22.1,5183,10003,442,2522763,1952345,4475108
+P0273,Semi-Urban,1098,1,6.0,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,440,29.3,19.1,4092,9148,439,2657516,1653865,4311381
+P0274,Urban,991,1,4.5,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,412,22.5,19.6,4098,9445,358,2807433,2180690,4988123
+P0275,Urban,1445,2,6.0,RCC Flat Roof,Hard,Premium Acrylic,Ceramic Tiles,Standard,592,36.4,25.1,5619,14124,699,4170571,3018222,7188793
+P0276,Semi-Urban,1387,2,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,554,32.8,23.6,6239,11248,605,4478340,3448566,7926906
+P0277,Urban,1179,1,4.5,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,480,27.8,19.7,5062,10906,578,2667210,1772352,4439562
+P0278,Urban,1425,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,628,39.5,23.1,6245,11676,510,4320714,3289481,7610195
+P0279,Urban,1434,1,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,582,38.2,22.7,5570,12467,594,4761191,3083821,7845012
+P0280,Urban,1163,2,4.5,Metal Sheet Roof,Hard,Standard Acrylic,Ceramic Tiles,Basic,453,26.9,18.5,4666,11268,420,2887997,1906016,4794013
+P0281,Semi-Urban,1031,2,6.0,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,420,28.0,16.7,4605,10223,399,2830364,2042155,4872519
+P0282,Semi-Urban,1603,1,6.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,701,36.6,30.0,5687,15864,732,8312591,6520520,14833111
+P0283,Semi-Urban,1223,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,497,30.5,18.4,4882,12196,479,4386158,3127923,7514081
+P0284,Semi-Urban,1756,2,6.0,RCC Flat Roof,Soft,Lustre Paint,Italian Marble,Premium,710,45.2,31.1,6366,15065,677,8061745,6012222,14073967
+P0285,Urban,1368,2,6.0,Slab Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,548,36.0,23.0,5154,12126,497,4659368,3044662,7704030
+P0286,Urban,1631,2,9.0,RCC Sloped Roof,Medium,Lustre Paint,Italian Marble,Premium,718,40.2,25.6,7114,15710,811,8126299,5096126,13222425
+P0287,Semi-Urban,1330,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,505,31.3,23.4,5615,11103,574,4251768,2800805,7052573
+P0288,Urban,1386,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,571,31.6,27.2,6053,13049,507,4262294,2764786,7027080
+P0289,Semi-Urban,1488,2,6.0,RCC Flat Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,591,40.1,23.0,6496,13389,586,7969872,5868950,13838822
+P0290,Urban,1236,1,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,478,32.0,23.9,5349,11435,446,4533411,3465637,7999048
+P0291,Urban,1446,2,9.0,RCC Sloped Roof,Medium,Apex Weather Proof,Granite,Premium,560,38.2,23.7,5985,12554,722,6499430,4787965,11287395
+P0292,Urban,1496,3,6.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,578,39.0,29.0,6005,13581,580,8881000,5772360,14653360
+P0293,Semi-Urban,1140,1,6.0,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,470,31.4,20.8,4345,10317,410,2837234,1751130,4588364
+P0294,Urban,1367,2,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,582,30.4,24.6,5973,13371,570,4393682,3084184,7477866
+P0295,Urban,1565,2,9.0,RCC Flat Roof,Soft,Lustre Paint,Italian Marble,Premium,668,37.6,25.5,6465,12598,716,7889992,5463832,13353824
+P0296,Semi-Urban,1242,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,487,27.7,22.3,5390,9979,443,4536131,3095748,7631879
+P0297,Semi-Urban,1022,1,6.0,Metal Sheet Roof,Medium,Distemper,Mosaic,Basic,439,26.7,19.9,4281,8756,464,2502364,1824374,4326738
+P0298,Semi-Urban,1486,2,6.0,RCC Flat Roof,Medium,Royal Emulsion,Granite,Premium,645,39.0,28.5,5284,14109,709,7560174,5538564,13098738
+P0299,Semi-Urban,1266,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,524,34.8,20.3,4613,12049,538,4496067,2818094,7314161
+P0300,Urban,1606,1,9.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,655,44.8,26.4,6094,13986,698,7608886,5620753,13229639
+P0301,Rural,1425,1,9.0,RCC Flat Roof,Medium,Lustre Paint,Granite,Premium,609,33.0,25.1,5655,11602,673,6572084,4756343,11328427
+P0302,Urban,1232,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,482,33.9,23.5,4748,11471,530,4513585,3001198,7514783
+P0303,Semi-Urban,1188,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,479,27.4,17.9,4712,11133,456,4332422,3296311,7628733
+P0304,Semi-Urban,1446,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,580,38.4,28.5,6421,12073,695,4395903,2879120,7275023
+P0305,Urban,1158,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,495,27.6,20.0,4163,11344,567,4373152,2694132,7067284
+P0306,Semi-Urban,1051,1,6.0,RCC Flat Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,418,27.3,20.8,4641,9465,493,2371413,1802546,4173959
+P0307,Rural,1181,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,456,28.8,20.2,4741,11122,573,4525855,3438497,7964352
+P0308,Urban,1645,1,6.0,RCC Flat Roof,Soft,Royal Emulsion,Imported Vitrified Tiles,Premium,676,43.2,30.7,6043,14348,733,5694698,4397957,10092655
+P0309,Urban,1090,1,6.0,Metal Sheet Roof,Medium,Distemper,Mosaic,Basic,476,28.7,17.7,4807,9056,483,2547324,1987475,4534799
+P0310,Semi-Urban,1513,2,6.0,RCC Flat Roof,Medium,Apex Weather Proof,Italian Marble,Premium,650,39.3,25.3,5324,14191,744,6807832,4577888,11385720
+P0311,Urban,1319,2,9.0,RCC Flat Roof,Soft,Plastic Emulsion,Ceramic Tiles,Standard,536,30.4,22.1,5197,10734,576,4483922,3041231,7525153
+P0312,Semi-Urban,1506,2,9.0,RCC Flat Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,622,37.5,26.9,6651,14460,629,6119184,4026664,10145848
+P0313,Urban,1729,1,6.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,770,44.6,33.7,6840,14348,846,7321606,5140229,12461835
+P0314,Urban,958,1,6.0,Metal Sheet Roof,Soft,Distemper,Ceramic Tiles,Basic,369,26.7,17.6,3626,8786,351,2658666,1643729,4302395
+P0315,Urban,1088,1,6.0,Metal Sheet Roof,Hard,Distemper,Ceramic Tiles,Basic,452,24.1,18.5,4048,9864,543,2826151,1821878,4648029
+P0316,Semi-Urban,1292,2,6.0,RCC Flat Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,521,28.5,23.8,5588,10714,483,4637698,2997566,7635264
+P0317,Semi-Urban,1443,2,9.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,597,39.5,28.2,5176,14246,683,4279602,2765258,7044860
+P0318,Urban,1557,1,9.0,RCC Flat Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,621,38.0,31.0,6284,14021,605,8444556,5581039,14025595
+P0319,Urban,1500,3,6.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,641,37.5,28.2,5977,12448,670,5844627,4402935,10247562
+P0320,Semi-Urban,1712,3,9.0,RCC Flat Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,748,47.7,30.0,6770,16275,633,7745471,5320109,13065580
+P0321,Urban,1354,2,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Ceramic Tiles,Standard,526,35.6,21.0,5582,11796,634,4069509,3019963,7089472
+P0322,Semi-Urban,1318,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,542,29.9,22.8,5737,12076,476,4135194,3100487,7235681
+P0323,Urban,1335,2,6.0,Slab Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,586,36.0,22.7,5117,11993,581,4227703,3133783,7361486
+P0324,Semi-Urban,1483,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,609,34.5,27.4,6491,12725,537,7184811,5247602,12432413
+P0325,Semi-Urban,1189,1,4.5,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,453,29.1,22.4,4564,10852,452,2616820,1711939,4328759
+P0326,Urban,1331,1,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,554,31.2,20.8,4823,12200,612,4548914,3303627,7852541
+P0327,Urban,1186,2,9.0,Slab Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,460,26.1,23.7,5102,11354,505,4119564,3007660,7127224
+P0328,Urban,1250,1,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,536,28.3,24.1,5041,11178,621,4403022,2881651,7284673
+P0329,Urban,1199,1,6.0,Slab Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,516,30.0,22.1,4439,11380,598,4653450,3103088,7756538
+P0330,Urban,1705,3,9.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,725,40.6,29.5,6443,14899,637,8961480,5654389,14615869
+P0331,Urban,1161,1,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Ceramic Tiles,Standard,442,31.1,22.0,4408,9602,431,4743995,3138413,7882408
+P0332,Semi-Urban,996,1,6.0,RCC Flat Roof,Soft,Distemper,Mosaic,Basic,421,21.9,19.4,4005,8491,463,2944257,1838487,4782744
+P0333,Urban,1619,1,9.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,706,37.1,27.3,6270,13442,760,6974837,4602930,11577767
+P0334,Urban,1452,1,9.0,RCC Flat Roof,Hard,Royal Emulsion,Imported Vitrified Tiles,Premium,608,33.5,24.5,6306,13486,649,7242278,4591330,11833608
+P0335,Semi-Urban,1765,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,672,39.8,31.4,7751,15133,704,8276682,6322280,14598962
+P0336,Urban,1683,2,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Italian Marble,Premium,754,45.5,29.5,7542,13791,665,6094282,4091826,10186108
+P0337,Urban,951,1,6.0,Metal Sheet Roof,Soft,Distemper,Ceramic Tiles,Basic,417,24.0,18.1,3812,7726,387,2891310,2037061,4928371
+P0338,Urban,1413,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,622,38.6,23.7,5063,13351,560,4311040,2791455,7102495
+P0339,Urban,1198,1,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,526,32.7,20.9,5065,10342,480,4279086,3206180,7485266
+P0340,Urban,1596,1,9.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,628,44.2,27.2,6330,12936,567,6978768,4594052,11572820
+P0341,Urban,1367,1,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,529,35.6,24.8,5885,13192,656,4391450,3117255,7508705
+P0342,Semi-Urban,1341,1,6.0,RCC Flat Roof,Medium,Premium Acrylic,Ceramic Tiles,Standard,560,33.2,26.5,5596,10902,563,4174989,3093260,7268249
+P0343,Urban,1683,3,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Granite,Premium,662,43.1,30.9,6775,15881,735,7573468,4703859,12277327
+P0344,Urban,1290,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,557,30.5,23.0,4628,11387,596,4275146,2831099,7106245
+P0345,Rural,1304,1,6.0,Slab Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,575,29.2,25.4,4993,11252,556,4486393,2791497,7277890
+P0346,Urban,1228,1,6.0,RCC Flat Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,551,30.4,18.8,4620,10894,458,4535252,2816978,7352230
+P0347,Semi-Urban,1393,2,9.0,Slab Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,583,31.6,21.8,5613,11893,491,4385469,2882818,7268287
+P0348,Urban,1577,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,609,35.0,27.6,6466,12813,722,7446156,5530227,12976383
+P0349,Semi-Urban,1277,2,9.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,491,35.3,24.0,5309,12320,570,4933903,3047993,7981896
+P0350,Semi-Urban,1294,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,492,30.0,22.6,5758,11344,535,4777632,3147026,7924658
+P0351,Semi-Urban,1278,1,6.0,Slab Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,571,32.8,25.5,5547,10315,573,4212984,3085942,7298926
+P0352,Urban,1032,1,4.5,Metal Sheet Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,408,27.9,19.2,4624,8577,396,2450814,1828530,4279344
+P0353,Semi-Urban,1226,2,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Ceramic Tiles,Standard,485,27.8,20.4,4561,12076,588,4240138,2946768,7186906
+P0354,Urban,1723,1,9.0,RCC Sloped Roof,Hard,Royal Emulsion,Italian Marble,Premium,722,43.1,27.1,6792,14935,737,8077713,5495098,13572811
+P0355,Urban,1605,2,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Granite,Premium,678,39.2,29.5,5922,15468,589,8274183,5530846,13805029
+P0356,Urban,1316,1,6.0,Slab Roof,Hard,Premium Acrylic,Ceramic Tiles,Standard,525,31.9,23.5,5766,13007,606,4378872,3368640,7747512
+P0357,Semi-Urban,1490,3,6.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,630,37.1,25.3,6569,12006,693,7401013,4650505,12051518
+P0358,Urban,1352,2,6.0,RCC Flat Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,532,30.4,24.4,4809,12635,580,4528656,3022034,7550690
+P0359,Urban,1149,2,4.5,RCC Flat Roof,Medium,Distemper,Mosaic,Basic,450,30.8,21.2,4660,10799,473,2513438,1909263,4422701
+P0360,Semi-Urban,1333,1,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,580,33.3,26.0,5022,11758,646,4618458,2906213,7524671
+P0361,Semi-Urban,1220,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,476,27.3,22.7,4952,10635,574,4584013,3274966,7858979
+P0362,Semi-Urban,1427,1,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,625,36.3,25.7,5741,13911,508,4205644,3100112,7305756
+P0363,Semi-Urban,1312,1,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,505,35.1,21.1,5480,12603,569,4685928,3066417,7752345
+P0364,Semi-Urban,1271,1,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,558,34.1,20.8,4759,10745,509,4338967,3016562,7355529
+P0365,Urban,1055,2,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,457,23.7,20.2,4143,9697,383,2447617,1770655,4218272
+P0366,Urban,1435,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,616,33.1,27.9,5656,11889,666,4835829,3125714,7961543
+P0367,Semi-Urban,1087,2,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,455,25.9,16.8,3806,9673,516,2884603,1968862,4853465
+P0368,Rural,998,1,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,415,25.6,16.3,3779,9004,470,2413459,1873386,4286845
+P0369,Semi-Urban,1629,3,9.0,RCC Sloped Roof,Hard,Lustre Paint,Italian Marble,Premium,676,38.9,30.4,7126,16090,766,8575195,5458694,14033889
+P0370,Urban,1581,1,6.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,621,36.2,24.5,6450,14633,639,8366392,5763048,14129440
+P0371,Semi-Urban,1409,3,9.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,615,35.3,21.5,5685,13908,619,8575006,5515513,14090519
+P0372,Semi-Urban,1473,3,6.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,601,40.6,22.8,5908,14489,715,8347650,6312994,14660644
+P0373,Urban,1516,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Granite,Premium,611,41.0,25.1,6075,13344,725,7672914,5422692,13095606
+P0374,Urban,1328,1,6.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,511,36.5,26.3,4751,12037,525,4487553,3202270,7689823
+P0375,Urban,1555,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,642,35.9,27.1,6537,12532,546,7276703,5613656,12890359
+P0376,Urban,1730,3,6.0,RCC Flat Roof,Hard,Royal Emulsion,Granite,Premium,715,46.7,32.5,6891,14226,635,8678861,5593413,14272274
+P0377,Urban,968,2,6.0,Metal Sheet Roof,Soft,Distemper,Ceramic Tiles,Basic,422,23.5,18.9,3455,7856,473,2684056,1797532,4481588
+P0378,Urban,1403,3,9.0,RCC Flat Roof,Soft,Lustre Paint,Italian Marble,Premium,588,36.0,21.3,5475,13045,637,8241603,5533698,13775301
+P0379,Urban,1169,1,4.5,RCC Flat Roof,Hard,Distemper,Ceramic Tiles,Basic,506,27.9,21.0,4720,9363,421,2363688,1729831,4093519
+P0380,Semi-Urban,1650,3,9.0,RCC Flat Roof,Soft,Lustre Paint,Italian Marble,Premium,729,42.6,28.2,6258,14437,703,6217139,4517935,10735074
+P0381,Rural,1737,2,6.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,684,44.5,26.6,6797,15794,721,8871391,5793996,14665387
+P0382,Semi-Urban,1215,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,465,32.6,20.5,5290,11669,488,4675433,3095809,7771242
+P0383,Urban,1216,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,520,29.6,20.3,5272,9974,548,4539758,3356523,7896281
+P0384,Urban,1103,1,6.0,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,476,27.9,21.0,4918,10572,485,2456726,1710037,4166763
+P0385,Urban,1301,1,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,570,30.7,22.4,5253,12134,608,4660356,3323965,7984321
+P0386,Semi-Urban,1139,1,6.0,Metal Sheet Roof,Soft,Distemper,Ceramic Tiles,Basic,498,27.1,19.7,4297,10167,550,2437684,1712926,4150610
+P0387,Urban,1744,3,9.0,RCC Flat Roof,Medium,Lustre Paint,Granite,Premium,666,43.6,27.5,6423,15225,723,7180561,4839320,12019881
+P0388,Urban,1720,1,9.0,RCC Sloped Roof,Medium,Lustre Paint,Italian Marble,Premium,702,42.6,28.4,6076,15790,737,7222900,5295557,12518457
+P0389,Urban,1022,2,6.0,RCC Flat Roof,Medium,Distemper,Mosaic,Basic,391,23.9,19.9,3586,8587,504,2980794,2013799,4994593
+P0390,Urban,1007,1,6.0,Metal Sheet Roof,Soft,Distemper,Ceramic Tiles,Basic,431,23.1,19.1,3837,8714,354,2448575,1618415,4066990
+P0391,Urban,1117,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,449,30.9,18.3,4424,10435,418,2812117,1960763,4772880
+P0392,Semi-Urban,1414,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,541,36.4,25.6,6209,12741,511,4549966,3316888,7866854
+P0393,Semi-Urban,1267,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,546,28.4,24.5,5067,11247,559,4325106,2914152,7239258
+P0394,Urban,1135,1,6.0,Metal Sheet Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,469,31.7,21.4,4211,10218,437,2780368,1975864,4756232
+P0395,Semi-Urban,1729,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,670,45.9,32.5,7451,16897,673,7946120,5910003,13856123
+P0396,Urban,1032,1,4.5,RCC Flat Roof,Hard,Standard Acrylic,Ceramic Tiles,Basic,410,25.2,17.5,4432,9197,387,2456830,1808258,4265088
+P0397,Urban,1049,1,4.5,RCC Flat Roof,Hard,Distemper,Mosaic,Basic,430,26.5,20.8,3939,10193,453,2464286,1683167,4147453
+P0398,Urban,1252,1,6.0,RCC Flat Roof,Medium,Premium Acrylic,Ceramic Tiles,Standard,533,30.8,23.9,5515,10315,538,4363568,3198015,7561583
+P0399,Urban,1140,1,4.5,RCC Flat Roof,Medium,Standard Acrylic,Mosaic,Basic,483,27.8,18.5,5109,11361,557,2834462,1834084,4668546
+P0400,Urban,1147,1,6.0,RCC Flat Roof,Hard,Distemper,Ceramic Tiles,Basic,464,27.4,22.7,4750,9229,475,2950415,1866585,4817000
+P0401,Urban,1656,3,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Granite,Premium,724,44.9,32.5,7368,15085,664,6469161,4003619,10472780
+P0402,Urban,950,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,369,23.4,15.6,4168,7677,462,2479111,1585141,4064252
+P0403,Urban,1327,1,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,594,34.0,20.7,5070,12918,510,4646013,3143276,7789289
+P0404,Urban,1000,1,4.5,Metal Sheet Roof,Hard,Distemper,Ceramic Tiles,Basic,440,27.7,17.6,3852,8468,357,2424180,1783662,4207842
+P0405,Semi-Urban,1511,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,639,39.4,28.5,6129,14039,531,7217390,5450693,12668083
+P0406,Rural,1096,2,6.0,RCC Flat Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,457,29.7,19.1,4245,9849,478,2328797,1747196,4075993
+P0407,Rural,1221,1,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,514,27.5,20.9,4486,12178,530,4614075,3060111,7674186
+P0408,Urban,1479,1,9.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,619,39.1,28.2,5366,11886,670,6054670,4419024,10473694
+P0409,Semi-Urban,1003,1,4.5,RCC Flat Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,423,24.6,17.3,3765,9679,424,2459630,1690913,4150543
+P0410,Urban,1699,1,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,711,42.8,31.7,6040,16608,773,6250527,4658514,10909041
+P0411,Urban,1458,1,9.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,619,32.7,22.8,6043,12654,665,7215288,4943012,12158300
+P0412,Urban,1120,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,448,31.3,22.2,4278,11191,534,2774951,1875876,4650827
+P0413,Urban,1046,1,6.0,RCC Flat Roof,Medium,Distemper,Mosaic,Basic,400,28.5,18.4,4077,9408,470,2748564,2152882,4901446
+P0414,Semi-Urban,1201,1,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,537,30.7,22.9,4334,10562,481,4424621,3022118,7446739
+P0415,Semi-Urban,1412,2,9.0,Slab Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,563,37.8,22.8,5904,12012,681,4202329,2876008,7078337
+P0416,Urban,1322,1,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,575,29.5,22.3,5295,12057,607,4199458,3024910,7224368
+P0417,Semi-Urban,1540,2,6.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,638,34.2,24.6,6663,14878,606,7917632,5009244,12926876
+P0418,Semi-Urban,1632,1,6.0,RCC Flat Roof,Hard,Apex Weather Proof,Granite,Premium,728,39.9,29.9,6470,15114,681,6906969,5182567,12089536
+P0419,Urban,1259,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Ceramic Tiles,Standard,483,33.9,19.1,4868,11437,468,4553128,2975455,7528583
+P0420,Urban,1168,2,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,499,30.6,20.4,4535,9862,553,2486573,1682025,4168598
+P0421,Urban,954,2,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,429,22.6,17.5,3507,8739,463,2863616,2080379,4943995
+P0422,Semi-Urban,1029,2,6.0,RCC Flat Roof,Medium,Standard Acrylic,Mosaic,Basic,425,22.9,18.7,3653,10138,508,2392839,1795063,4187902
+P0423,Semi-Urban,1658,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Imported Vitrified Tiles,Premium,717,41.3,29.9,6342,16525,746,5885875,4575469,10461344
+P0424,Urban,1203,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,511,27.3,21.0,5035,11498,424,4676355,2946958,7623313
+P0425,Urban,1592,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,674,42.5,27.9,6141,13619,710,8457773,5601771,14059544
+P0426,Semi-Urban,1226,1,6.0,Slab Roof,Soft,Plastic Emulsion,Ceramic Tiles,Standard,510,29.1,20.0,5430,10230,535,4356438,2985895,7342333
+P0427,Semi-Urban,1445,2,6.0,Slab Roof,Hard,Plastic Emulsion,Ceramic Tiles,Standard,617,35.4,26.7,5554,12361,721,4537397,2961845,7499242
+P0428,Semi-Urban,1145,2,4.5,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,461,28.2,18.8,4673,9286,425,2620645,1734644,4355289
+P0429,Urban,1273,2,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,521,35.1,22.5,5126,10543,445,4649631,2990143,7639774
+P0430,Urban,1489,2,9.0,RCC Flat Roof,Medium,Lustre Paint,Granite,Premium,597,36.9,26.8,5466,14120,588,7898155,5271093,13169248
+P0431,Urban,1632,3,9.0,RCC Flat Roof,Medium,Apex Weather Proof,Granite,Premium,684,36.0,25.1,6653,16111,783,8319115,5121472,13440587
+P0432,Urban,1192,1,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,480,26.4,19.9,5129,11675,509,2812095,1975834,4787929
+P0433,Urban,1189,1,6.0,Slab Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,473,33.0,21.4,5271,9995,442,4816946,3062257,7879203
+P0434,Semi-Urban,1543,3,9.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,613,38.6,29.7,5769,13625,682,6438066,4494825,10932891
+P0435,Urban,1458,2,9.0,RCC Sloped Roof,Medium,Lustre Paint,Italian Marble,Premium,596,38.4,25.2,6352,14416,583,7012421,4800127,11812548
+P0436,Urban,1263,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,554,31.4,21.5,4719,11947,467,4326144,2874324,7200468
+P0437,Semi-Urban,1543,1,9.0,RCC Flat Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,641,35.2,27.6,6029,14385,744,6513414,4628943,11142357
+P0438,Urban,1133,1,4.5,Metal Sheet Roof,Hard,Distemper,Ceramic Tiles,Basic,431,30.6,17.2,5030,11085,487,2379064,1635450,4014514
+P0439,Semi-Urban,1153,1,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,478,30.4,19.5,5125,10335,502,4502642,2884407,7387049
+P0440,Urban,1572,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,660,36.7,25.7,6764,12714,784,5891717,4484292,10376009
+P0441,Semi-Urban,1702,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Granite,Premium,738,42.0,29.6,7052,13983,707,7403652,4570224,11973876
+P0442,Urban,1030,1,6.0,Metal Sheet Roof,Soft,Distemper,Mosaic,Basic,446,26.3,17.2,3875,8491,439,2568521,1747482,4316003
+P0443,Urban,1300,2,9.0,RCC Flat Roof,Hard,Premium Acrylic,Ceramic Tiles,Standard,584,34.8,23.8,4999,10845,470,4497159,2978199,7475358
+P0444,Semi-Urban,1357,2,9.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,527,33.7,24.4,4791,11602,481,4580198,3246255,7826453
+P0445,Semi-Urban,1064,1,4.5,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,405,25.1,20.2,4378,10116,443,2882881,2099770,4982651
+P0446,Urban,1042,1,6.0,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,418,23.7,17.1,3865,9284,506,2448020,1875050,4323070
+P0447,Semi-Urban,1170,2,4.5,RCC Flat Roof,Hard,Standard Acrylic,Ceramic Tiles,Basic,499,26.1,21.5,5081,10293,501,2737806,1949476,4687282
+P0448,Urban,1195,1,6.0,RCC Flat Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,473,29.2,22.9,4454,10813,562,2791698,2011565,4803263
+P0449,Semi-Urban,1370,2,9.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,525,33.9,27.0,6011,11240,632,4407862,2837769,7245631
+P0450,Urban,1475,1,6.0,RCC Flat Roof,Soft,Royal Emulsion,Imported Vitrified Tiles,Premium,601,35.4,23.9,5871,13427,656,7111152,5246889,12358041
+P0451,Rural,1178,1,4.5,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,458,31.0,18.1,4513,10089,510,2517804,1651954,4169758
+P0452,Urban,1334,1,6.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,595,35.2,20.4,5848,12973,555,4720164,3210861,7931025
+P0453,Rural,1408,1,6.0,RCC Flat Roof,Medium,Premium Acrylic,Ceramic Tiles,Standard,573,31.4,26.8,5778,11823,597,4553568,2978735,7532303
+P0454,Semi-Urban,965,2,4.5,RCC Flat Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,422,24.7,18.3,4332,9030,480,2527571,1972046,4499617
+P0455,Urban,1522,3,9.0,RCC Flat Roof,Medium,Royal Emulsion,Imported Vitrified Tiles,Premium,618,39.7,23.3,5930,15109,655,6084031,4455234,10539265
+P0456,Urban,1415,1,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,562,35.7,27.1,5098,13988,664,4397751,3305776,7703527
+P0457,Semi-Urban,1570,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Imported Vitrified Tiles,Premium,606,34.7,29.9,5664,15658,695,7143571,4781222,11924793
+P0458,Urban,1268,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,482,29.1,19.5,5700,10876,472,4159268,3081044,7240312
+P0459,Rural,1409,1,6.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,610,35.9,26.0,5730,13198,493,7760252,4840548,12600800
+P0460,Urban,1745,2,6.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,756,38.6,31.0,6769,15727,758,6963709,5067535,12031244
+P0461,Urban,1457,3,6.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,653,38.7,24.9,5106,12568,625,7919417,5747591,13667008
+P0462,Urban,1208,2,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,520,29.9,22.3,4662,11277,430,4342445,3100319,7442764
+P0463,Semi-Urban,1371,1,9.0,RCC Flat Roof,Soft,Plastic Emulsion,Ceramic Tiles,Standard,579,36.7,21.2,5050,13047,484,4752129,3050876,7803005
+P0464,Urban,1382,2,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,596,34.6,23.6,5387,11129,553,4736396,2920722,7657118
+P0465,Semi-Urban,1063,2,4.5,Metal Sheet Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,436,28.4,16.4,4274,10282,504,2672819,1656558,4329377
+P0466,Semi-Urban,1255,1,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,506,30.8,22.0,4990,10719,444,4298037,2909733,7207770
+P0467,Urban,1710,1,6.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,714,44.9,27.5,7135,16088,741,7059418,4433942,11493360
+P0468,Urban,1018,2,6.0,Metal Sheet Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,419,27.2,19.5,4127,8510,427,2581813,1595308,4177121
+P0469,Semi-Urban,1507,3,6.0,RCC Flat Roof,Soft,Apex Weather Proof,Italian Marble,Premium,653,40.7,25.2,6618,13474,646,8714357,5341455,14055812
+P0470,Semi-Urban,1029,1,6.0,Metal Sheet Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,399,23.6,17.7,4009,9762,449,2544168,1817601,4361769
+P0471,Urban,1626,1,9.0,RCC Flat Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,681,42.3,30.1,6164,14537,802,6747342,4386843,11134185
+P0472,Rural,1064,2,6.0,RCC Flat Roof,Medium,Standard Acrylic,Mosaic,Basic,441,29.4,19.1,4296,9479,405,2658961,2087292,4746253
+P0473,Urban,1437,2,9.0,RCC Sloped Roof,Medium,Royal Emulsion,Imported Vitrified Tiles,Premium,635,34.4,22.7,6101,12583,604,7501862,5046753,12548615
+P0474,Rural,1135,1,4.5,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,477,25.4,21.9,5063,9640,473,2480557,1938529,4419086
+P0475,Semi-Urban,1432,1,9.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,630,32.5,27.1,5976,11785,650,4348214,3065711,7413925
+P0476,Rural,1134,1,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,473,29.3,22.4,4083,9772,500,2558866,1582744,4141610
+P0477,Urban,1671,2,6.0,RCC Sloped Roof,Medium,Lustre Paint,Granite,Premium,711,46.3,25.1,6262,16468,818,6100364,4012381,10112745
+P0478,Semi-Urban,1225,1,9.0,Slab Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,494,30.1,19.2,4314,11929,530,4230235,2861247,7091482
+P0479,Rural,1072,2,4.5,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,456,28.2,19.8,4094,9116,528,2870905,1794214,4665119
+P0480,Urban,1328,2,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,553,32.3,24.0,5934,10876,542,4585287,3260906,7846193
+P0481,Urban,1241,1,9.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,541,32.2,21.1,4980,11921,503,4171772,2980402,7152174
+P0482,Urban,1198,2,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,524,27.6,23.3,4979,11696,506,4689565,3225019,7914584
+P0483,Rural,1404,1,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Ceramic Tiles,Standard,540,36.6,22.3,5397,11404,548,4788176,3111732,7899908
+P0484,Semi-Urban,1198,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,467,31.7,21.6,4978,9604,585,4072778,3148748,7221526
+P0485,Urban,1431,2,9.0,Slab Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,551,35.7,22.6,5537,12390,591,4399418,3003293,7402711
+P0486,Rural,1179,2,4.5,RCC Flat Roof,Hard,Standard Acrylic,Ceramic Tiles,Basic,489,31.9,17.8,4839,10085,565,2535651,1858833,4394484
+P0487,Semi-Urban,1677,3,9.0,RCC Sloped Roof,Medium,Royal Emulsion,Imported Vitrified Tiles,Premium,696,45.8,28.2,6504,14818,724,7931861,5439236,13371097
+P0488,Urban,1703,1,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,716,41.3,29.4,6875,14317,635,7065878,4464126,11530004
+P0489,Urban,1136,2,6.0,Metal Sheet Roof,Hard,Distemper,Ceramic Tiles,Basic,433,25.4,18.3,4558,10328,403,2515872,1896220,4412092
+P0490,Urban,1030,1,4.5,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,415,26.3,17.1,3694,8699,389,2690584,1903356,4593940
+P0491,Semi-Urban,1305,2,9.0,Slab Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,580,35.2,21.7,4877,11125,555,4392009,2871796,7263805
+P0492,Urban,1250,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Ceramic Tiles,Standard,520,32.7,24.3,4994,10783,578,4051288,3016507,7067795
+P0493,Urban,1411,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,615,35.4,28.1,5335,12644,588,8127872,6200763,14328635
+P0494,Urban,1690,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,654,38.4,26.2,6945,14184,655,6524266,4913500,11437766
+P0495,Rural,1251,1,6.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,554,28.8,23.8,5369,10326,512,4478774,3375842,7854616
+P0496,Urban,1203,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,522,29.0,22.9,4594,10017,499,4264516,2998729,7263245
+P0497,Urban,1376,2,9.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,561,31.4,24.1,4990,12319,639,4095829,3021215,7117044
+P0498,Urban,1509,3,6.0,RCC Flat Roof,Medium,Lustre Paint,Granite,Premium,637,34.0,22.9,6217,12960,547,9059311,5900768,14960079
+P0499,Urban,1116,1,6.0,RCC Flat Roof,Hard,Standard Acrylic,Ceramic Tiles,Basic,474,26.8,18.9,4198,9693,459,2690141,1769457,4459598
+P0500,Urban,1052,1,4.5,Metal Sheet Roof,Soft,Distemper,Ceramic Tiles,Basic,440,23.2,16.2,3814,8806,448,3062709,1880855,4943564
+P0501,Semi-Urban,1326,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,509,33.7,24.0,5311,12774,635,4215153,2846145,7061298
+P0502,Urban,1152,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,511,29.2,18.2,4946,11323,432,4686739,3008490,7695229
+P0503,Rural,1496,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,578,35.4,28.7,6702,13445,525,8350863,6340944,14691807
+P0504,Urban,1036,1,4.5,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,432,28.2,19.1,3741,8594,429,2617771,1960813,4578584
+P0505,Urban,1277,1,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,532,28.4,23.1,5526,10618,560,4648796,3156218,7805014
+P0506,Urban,1715,1,9.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,747,38.4,31.6,6630,16312,848,6018667,4598650,10617317
+P0507,Urban,1122,2,6.0,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,491,24.7,20.0,4307,9700,501,2939415,1870710,4810125
+P0508,Semi-Urban,964,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,416,24.5,14.8,3486,8862,377,2740968,2112204,4853172
+P0509,Urban,1049,1,6.0,RCC Flat Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,432,26.9,17.7,4407,10145,475,2690488,1863833,4554321
+P0510,Urban,1213,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,470,33.5,23.7,4882,11462,503,4568594,3073725,7642319
+P0511,Urban,1169,1,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,519,26.4,22.0,4812,10751,460,4388241,2912917,7301158
+P0512,Semi-Urban,1217,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,498,29.3,22.6,4702,11764,508,4290287,2822570,7112857
+P0513,Urban,1090,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,464,27.2,19.2,4286,10881,533,2803302,2042816,4846118
+P0514,Urban,1117,1,6.0,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,496,30.3,21.1,4348,10062,468,2783851,2055913,4839764
+P0515,Urban,1664,3,6.0,RCC Flat Roof,Hard,Royal Emulsion,Imported Vitrified Tiles,Premium,716,41.8,25.3,7377,15659,768,6169469,3983013,10152482
+P0516,Semi-Urban,1788,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,692,45.8,34.6,6472,15917,870,7431466,4774114,12205580
+P0517,Urban,1219,2,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,532,28.4,22.7,5416,11038,525,4567057,3204514,7771571
+P0518,Urban,1011,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,446,28.1,19.7,4265,9270,458,2758554,1717100,4475654
+P0519,Urban,1137,1,4.5,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,470,29.2,19.4,4205,11282,485,2739372,1795747,4535119
+P0520,Urban,1760,1,9.0,RCC Flat Roof,Hard,Royal Emulsion,Imported Vitrified Tiles,Premium,747,42.0,32.2,6530,15200,679,6987858,4787800,11775658
+P0521,Urban,1355,1,9.0,Slab Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,541,32.0,26.1,4785,11046,529,4537793,3395517,7933310
+P0522,Urban,1285,1,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,529,35.9,20.7,4896,12809,610,4586656,3211286,7797942
+P0523,Urban,1070,2,4.5,Metal Sheet Roof,Soft,Distemper,Ceramic Tiles,Basic,477,26.4,19.3,4254,10556,386,2857800,1985377,4843177
+P0524,Semi-Urban,1153,1,6.0,Metal Sheet Roof,Hard,Distemper,Ceramic Tiles,Basic,463,28.5,18.7,4946,10687,495,2796324,1995581,4791905
+P0525,Urban,1184,2,6.0,Metal Sheet Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,460,32.6,20.4,5013,10341,417,2729822,2092914,4822736
+P0526,Urban,1389,1,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,546,32.8,24.5,6017,12228,635,4710880,2979084,7689964
+P0527,Urban,1239,1,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,530,32.0,23.6,4391,10646,485,4440426,3366765,7807191
+P0528,Urban,1468,3,6.0,RCC Flat Roof,Medium,Apex Weather Proof,Granite,Premium,586,41.1,28.6,5891,14167,693,7115092,4433733,11548825
+P0529,Semi-Urban,1403,3,9.0,RCC Flat Roof,Medium,Royal Emulsion,Granite,Premium,588,38.9,27.4,6139,13472,689,7480418,5737977,13218395
+P0530,Urban,976,1,4.5,RCC Flat Roof,Soft,Distemper,Mosaic,Basic,398,23.0,16.3,4111,8891,473,2679638,1815417,4495055
+P0531,Urban,957,1,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,375,26.5,18.0,3548,8302,451,2879782,1905970,4785752
+P0532,Semi-Urban,978,1,4.5,Metal Sheet Roof,Hard,Distemper,Ceramic Tiles,Basic,395,25.6,19.0,3884,8572,379,2648076,1793124,4441200
+P0533,Semi-Urban,1195,2,4.5,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,520,32.3,18.9,5203,11201,511,2637243,1687417,4324660
+P0534,Urban,1401,1,9.0,Slab Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,594,38.1,21.6,5993,12589,608,4310899,2883094,7193993
+P0535,Rural,1012,1,4.5,RCC Flat Roof,Medium,Distemper,Mosaic,Basic,449,23.9,17.5,4097,10017,505,2329062,1727657,4056719
+P0536,Semi-Urban,1198,2,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,525,26.4,19.8,4208,9814,472,2465953,1912077,4378030
+P0537,Urban,1003,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,399,25.2,17.6,4437,9125,438,2387133,1699729,4086862
+P0538,Rural,1458,2,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Italian Marble,Premium,621,40.8,23.8,5942,13694,546,7899987,5985941,13885928
+P0539,Urban,1340,1,6.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,539,32.0,23.1,5529,11112,506,4516912,2868900,7385812
+P0540,Urban,1420,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,585,33.4,26.4,5994,12162,674,6890791,5010183,11900974
+P0541,Semi-Urban,1174,1,6.0,Metal Sheet Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,454,26.6,19.3,4830,11280,569,2461989,1659010,4120999
+P0542,Urban,1165,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,489,29.7,18.7,4163,10402,515,4065319,3120997,7186316
+P0543,Rural,1608,2,9.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,672,40.5,24.7,6750,14870,608,8764893,6137178,14902071
+P0544,Semi-Urban,1265,1,9.0,Slab Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,559,28.5,25.2,5628,10318,619,4380535,3148900,7529435
+P0545,Semi-Urban,1224,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,494,30.4,20.4,4415,10148,434,4363603,3054779,7418382
+P0546,Rural,1295,1,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,563,35.3,24.9,5286,11004,581,4287865,2827809,7115674
+P0547,Urban,1755,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,713,42.2,32.6,7446,14218,672,7030484,5165568,12196052
+P0548,Urban,1362,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,580,33.6,22.0,5756,12824,508,4393056,2751459,7144515
+P0549,Urban,1256,1,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,545,33.8,21.9,4653,11899,571,4055068,2999969,7055037
+P0550,Rural,1142,2,6.0,RCC Flat Roof,Hard,Standard Acrylic,Ceramic Tiles,Basic,456,28.4,22.4,4439,10421,537,2403634,1700736,4104370
+P0551,Urban,1424,2,9.0,RCC Flat Roof,Soft,Plastic Emulsion,Ceramic Tiles,Standard,632,36.5,27.1,6111,11942,641,4521768,3472757,7994525
+P0552,Urban,1068,2,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,424,24.9,18.8,4338,10562,405,2491100,1671135,4162235
+P0553,Semi-Urban,1185,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,508,31.6,20.5,4974,10399,443,4414341,3145899,7560240
+P0554,Urban,1432,2,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Ceramic Tiles,Standard,599,35.4,23.5,5438,12553,680,4912157,3035895,7948052
+P0555,Urban,999,2,4.5,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,394,23.2,17.5,4167,9813,424,2714873,1678479,4393352
+P0556,Rural,1301,2,6.0,Slab Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,539,30.3,21.3,4774,12277,605,4622609,3242452,7865061
+P0557,Semi-Urban,1509,1,9.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,601,40.8,25.0,6547,13365,692,8079266,5600410,13679676
+P0558,Semi-Urban,1654,1,6.0,RCC Sloped Roof,Medium,Lustre Paint,Granite,Premium,720,39.4,25.1,7331,14373,605,7060449,4916332,11976781
+P0559,Semi-Urban,1153,1,4.5,RCC Flat Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,496,29.9,21.5,4445,11116,411,2555472,1666174,4221646
+P0560,Urban,1262,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,567,30.8,22.8,4877,11087,573,4607774,2869062,7476836
+P0561,Urban,1176,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,487,30.9,22.7,5214,10178,435,4460736,3307663,7768399
+P0562,Semi-Urban,1513,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Imported Vitrified Tiles,Premium,631,34.3,29.0,5676,14456,746,8941310,5916110,14857420
+P0563,Urban,1659,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Imported Vitrified Tiles,Premium,744,45.3,29.7,6466,14481,583,7073000,5228929,12301929
+P0564,Semi-Urban,1677,1,6.0,RCC Sloped Roof,Hard,Royal Emulsion,Imported Vitrified Tiles,Premium,738,46.9,27.6,7060,13803,689,7952511,5065648,13018159
+P0565,Urban,1369,2,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,527,34.7,22.8,5003,13276,586,4676088,2915006,7591094
+P0566,Semi-Urban,1186,2,6.0,Slab Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,472,27.6,21.3,4256,9625,481,4640707,3052264,7692971
+P0567,Urban,1183,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,464,29.9,19.0,4377,11807,556,4490072,2932803,7422875
+P0568,Semi-Urban,1370,2,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,574,37.7,23.2,5952,10960,514,4477143,3491779,7968922
+P0569,Urban,1115,2,6.0,RCC Flat Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,494,26.6,19.8,3925,10083,496,2817587,2090602,4908189
+P0570,Urban,1400,3,9.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,561,31.7,24.3,5847,13648,647,8157447,5078391,13235838
+P0571,Urban,1265,1,6.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,531,34.9,22.3,4874,12136,526,4060810,2951369,7012179
+P0572,Semi-Urban,990,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,415,26.0,15.4,4207,8189,356,2970104,1831501,4801605
+P0573,Rural,1314,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,552,34.2,22.6,5851,12110,503,4156853,2903583,7060436
+P0574,Semi-Urban,1252,2,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Ceramic Tiles,Standard,554,34.7,21.3,4653,10951,500,4178637,3144991,7323628
+P0575,Semi-Urban,1108,1,6.0,RCC Flat Roof,Hard,Standard Acrylic,Ceramic Tiles,Basic,467,27.6,16.8,4570,9787,480,2622224,1854400,4476624
+P0576,Rural,1168,1,6.0,RCC Flat Roof,Soft,Distemper,Mosaic,Basic,516,30.3,21.4,4094,11644,562,2825570,1778537,4604107
+P0577,Semi-Urban,1506,2,9.0,RCC Sloped Roof,Medium,Apex Weather Proof,Italian Marble,Premium,603,38.8,26.1,5446,13155,532,7017534,4706400,11723934
+P0578,Semi-Urban,1128,2,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,470,27.0,18.4,3990,10339,433,2778946,2105927,4884873
+P0579,Semi-Urban,1418,2,9.0,Slab Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,572,32.3,25.0,5860,12984,551,4720329,2960880,7681209
+P0580,Urban,1423,2,6.0,RCC Flat Roof,Medium,Royal Emulsion,Granite,Premium,563,33.2,22.5,5509,13794,674,6844100,4895966,11740066
+P0581,Urban,1198,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,495,28.8,21.2,5001,11101,502,4581247,3139568,7720815
+P0582,Urban,1070,1,4.5,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,408,25.1,20.8,4513,8716,506,2372620,1651620,4024240
+P0583,Semi-Urban,1177,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,498,31.7,21.6,4196,10139,462,4673709,2927030,7600739
+P0584,Semi-Urban,1675,3,9.0,RCC Flat Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,664,39.7,25.6,7195,14797,643,6801227,5049512,11850739
+P0585,Rural,1289,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,568,31.9,19.5,4804,11538,533,4791397,3042519,7833916
+P0586,Urban,1474,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,626,36.8,28.4,6448,12294,546,8039644,5408533,13448177
+P0587,Urban,1407,1,9.0,RCC Flat Roof,Soft,Royal Emulsion,Italian Marble,Premium,605,36.0,22.6,6122,12458,695,6089766,4003087,10092853
+P0588,Semi-Urban,1652,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Imported Vitrified Tiles,Premium,718,42.5,27.4,6677,13517,746,8232883,5408880,13641763
+P0589,Rural,1741,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,708,44.5,31.8,6879,17300,631,6564451,4737534,11301985
+P0590,Urban,1790,2,6.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,700,47.8,35.7,6300,16822,694,5671877,4412728,10084605
+P0591,Urban,1785,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,742,46.9,35.0,6405,17687,871,8266159,6409929,14676088
+P0592,Urban,1447,2,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,611,38.8,25.9,6507,12895,668,4688142,3125001,7813143
+P0593,Rural,1661,1,9.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,709,41.4,33.0,7265,14480,592,8285324,5280771,13566095
+P0594,Rural,1685,3,6.0,RCC Flat Roof,Soft,Lustre Paint,Imported Vitrified Tiles,Premium,676,46.9,27.6,7504,13660,769,8348022,5755114,14103136
+P0595,Urban,982,1,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,389,24.0,15.9,3919,9569,448,2512124,1711369,4223493
+P0596,Urban,1260,1,9.0,Slab Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,544,35.0,21.8,5455,12537,606,4413496,3280495,7693991
+P0597,Urban,1217,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,518,32.4,19.2,5161,11195,436,4545046,2947034,7492080
+P0598,Urban,1793,3,9.0,RCC Flat Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,744,44.4,35.8,7160,14983,765,7094157,4557747,11651904
+P0599,Semi-Urban,1409,2,9.0,RCC Sloped Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,621,38.5,27.4,5694,13093,608,7850866,6092041,13942907
+P0600,Semi-Urban,1679,2,9.0,RCC Flat Roof,Soft,Royal Emulsion,Italian Marble,Premium,713,40.9,32.1,6829,13572,632,7665058,4861601,12526659
+P0601,Urban,1592,2,9.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,667,36.8,27.4,6528,13778,743,9004846,5746871,14751717
+P0602,Urban,1513,2,6.0,RCC Sloped Roof,Soft,Royal Emulsion,Imported Vitrified Tiles,Premium,644,39.9,25.6,5950,12540,716,8741127,5452158,14193285
+P0603,Semi-Urban,1711,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Imported Vitrified Tiles,Premium,737,47.4,32.8,7533,16474,716,6739243,4978993,11718236
+P0604,Urban,1536,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Granite,Premium,684,35.4,23.8,5456,13627,681,6166096,3935084,10101180
+P0605,Semi-Urban,1709,2,6.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,732,45.5,27.7,6066,16573,600,6804254,4237548,11041802
+P0606,Semi-Urban,1447,1,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,625,35.8,26.1,6207,12198,520,4333869,2987976,7321845
+P0607,Urban,1632,3,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Italian Marble,Premium,699,43.5,27.2,6237,14876,782,7932195,5900591,13832786
+P0608,Rural,1176,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,520,26.1,22.0,5008,11649,421,4527641,3071477,7599118
+P0609,Urban,1295,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,574,31.7,25.6,5653,11127,484,4296655,3033977,7330632
+P0610,Urban,1368,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,551,30.2,21.8,6075,12369,683,4480954,3094764,7575718
+P0611,Urban,1677,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,743,46.7,32.7,6083,16178,690,7408112,4551102,11959214
+P0612,Urban,994,1,4.5,RCC Flat Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,416,25.4,18.1,3971,7987,397,2600387,1953448,4553835
+P0613,Semi-Urban,1342,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,591,33.8,25.2,4884,11670,548,4168238,2888466,7056704
+P0614,Rural,1719,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,700,40.9,31.9,6112,15432,750,8580313,5791169,14371482
+P0615,Urban,951,1,6.0,RCC Flat Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,399,26.0,16.5,4227,8015,343,2640674,1663693,4304367
+P0616,Semi-Urban,1018,1,4.5,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,399,25.7,16.7,4306,9839,465,3014598,1977990,4992588
+P0617,Urban,1426,1,6.0,RCC Flat Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,563,33.1,22.7,5010,13609,686,8093635,5466955,13560590
+P0618,Urban,1680,1,9.0,RCC Flat Roof,Soft,Lustre Paint,Italian Marble,Premium,664,45.5,27.8,7546,13569,620,6552787,4873602,11426389
+P0619,Semi-Urban,1005,2,6.0,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,393,28.0,15.6,4109,9299,432,2925798,1952718,4878516
+P0620,Urban,1379,1,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,559,38.2,23.0,4957,13781,538,4616686,2938332,7555018
+P0621,Urban,1592,1,9.0,RCC Flat Roof,Medium,Royal Emulsion,Granite,Premium,645,37.0,30.1,6346,13451,603,7783321,5873448,13656769
+P0622,Semi-Urban,1663,1,9.0,RCC Flat Roof,Medium,Lustre Paint,Granite,Premium,662,43.8,27.6,7025,14251,769,6261629,4883306,11144935
+P0623,Urban,1234,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,523,31.5,20.7,4914,11346,519,4513418,2985215,7498633
+P0624,Urban,1325,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,550,36.4,24.6,5594,10825,507,4037082,3165190,7202272
+P0625,Semi-Urban,1210,1,9.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,461,31.7,22.1,4732,10952,595,4375170,2969268,7344438
+P0626,Semi-Urban,1392,1,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,610,36.5,24.9,6110,13085,529,4137931,2925979,7063910
+P0627,Urban,1169,1,9.0,RCC Flat Roof,Hard,Premium Acrylic,Ceramic Tiles,Standard,487,27.3,18.2,4516,9949,497,4360015,2695202,7055217
+P0628,Urban,1362,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,526,31.0,25.0,5686,13563,622,4651860,3238070,7889930
+P0629,Semi-Urban,1660,2,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Granite,Premium,741,39.9,25.8,6650,13564,822,5916947,4605417,10522364
+P0630,Semi-Urban,1479,2,9.0,RCC Sloped Roof,Soft,Royal Emulsion,Granite,Premium,587,39.9,25.2,6599,12072,614,7491352,5134159,12625511
+P0631,Urban,1321,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,565,35.7,23.0,5325,11367,560,4095024,3115554,7210578
+P0632,Rural,1028,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,420,27.8,16.6,3603,9563,391,2944574,1855786,4800360
+P0633,Semi-Urban,1159,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,442,30.7,18.6,5023,10246,505,4333624,2743102,7076726
+P0634,Semi-Urban,1157,2,6.0,Slab Roof,Hard,Plastic Emulsion,Ceramic Tiles,Standard,478,25.5,18.8,4424,11491,563,4547860,2823658,7371518
+P0635,Semi-Urban,1521,2,9.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,671,41.3,25.9,6391,13862,726,6806883,4951354,11758237
+P0636,Urban,1276,2,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,497,31.1,21.8,4668,12562,447,4593237,2892134,7485371
+P0637,Semi-Urban,1286,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,540,30.2,24.4,4591,12059,483,4359323,2957640,7316963
+P0638,Semi-Urban,1770,2,6.0,RCC Flat Roof,Medium,Lustre Paint,Granite,Premium,711,39.5,34.9,7330,17264,798,8009281,5766121,13775402
+P0639,Urban,1577,2,9.0,RCC Sloped Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,602,43.2,24.1,6569,12842,719,7519360,5859373,13378733
+P0640,Semi-Urban,1246,2,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,543,34.5,22.5,4678,12270,581,4438247,3027696,7465943
+P0641,Semi-Urban,1519,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,658,40.2,26.9,6631,12553,667,8582292,6039289,14621581
+P0642,Urban,1433,3,9.0,RCC Flat Roof,Medium,Apex Weather Proof,Italian Marble,Premium,553,31.9,23.9,5745,12989,559,6923199,4339606,11262805
+P0643,Urban,1669,3,6.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,652,41.1,29.3,6477,14820,701,6199716,4028033,10227749
+P0644,Urban,1640,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,703,44.2,30.6,7362,14013,789,8389883,5454868,13844751
+P0645,Urban,1606,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,707,44.5,27.5,5897,15468,659,8422918,5247704,13670622
+P0646,Rural,1098,1,4.5,RCC Flat Roof,Hard,Standard Acrylic,Mosaic,Basic,447,27.1,21.1,4694,9416,437,2471912,1642916,4114828
+P0647,Urban,1407,1,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,554,31.7,25.5,5131,11706,495,4346939,2815290,7162229
+P0648,Semi-Urban,1448,1,6.0,Slab Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,617,37.7,23.5,5538,14001,672,4152152,3009870,7162022
+P0649,Urban,1162,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,487,29.7,19.6,4392,9932,437,2353842,1707837,4061679
+P0650,Urban,1395,1,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,602,37.7,23.4,4970,12896,527,4535575,3098240,7633815
+P0651,Semi-Urban,1423,3,6.0,RCC Flat Roof,Medium,Royal Emulsion,Imported Vitrified Tiles,Premium,631,37.9,23.0,5015,12476,528,8387425,5530765,13918190
+P0652,Semi-Urban,1300,1,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,532,29.4,22.7,5455,11104,512,4300475,2743496,7043971
+P0653,Urban,1415,1,9.0,Slab Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,583,35.7,26.0,4979,12740,620,4433744,3202726,7636470
+P0654,Semi-Urban,1187,2,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,525,32.5,19.8,5285,9555,482,4436279,2791898,7228177
+P0655,Urban,1424,2,6.0,RCC Flat Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,634,33.6,22.4,5112,12996,522,4133485,3139596,7273081
+P0656,Urban,1606,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Imported Vitrified Tiles,Premium,681,37.5,24.5,6608,13000,709,6543036,4865228,11408264
+P0657,Rural,1772,3,6.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,699,43.6,28.3,7173,14587,626,6968226,5407237,12375463
+P0658,Rural,1340,2,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,587,35.4,24.6,4865,12435,624,4368480,2773806,7142286
+P0659,Urban,1382,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,550,36.1,27.1,5306,12445,579,4375975,3308499,7684474
+P0660,Urban,1421,1,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Ceramic Tiles,Standard,634,32.5,22.6,6199,12484,498,4463316,3279685,7743001
+P0661,Urban,1364,1,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,590,33.1,22.1,5768,12056,678,4531132,3268133,7799265
+P0662,Rural,987,1,6.0,RCC Flat Roof,Medium,Distemper,Mosaic,Basic,423,26.9,16.7,3763,8647,348,2976955,1956007,4932962
+P0663,Urban,1403,2,6.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,610,33.0,26.4,5875,12129,605,4160084,3153238,7313322
+P0664,Urban,1597,1,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Imported Vitrified Tiles,Premium,640,42.7,24.7,6903,14933,579,8657779,5748207,14405986
+P0665,Urban,1667,2,9.0,RCC Flat Roof,Soft,Royal Emulsion,Imported Vitrified Tiles,Premium,676,37.7,30.6,5847,14920,631,7753067,5219683,12972750
+P0666,Rural,1616,2,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Italian Marble,Premium,627,38.5,32.0,6679,14719,736,7208975,5113038,12322013
+P0667,Semi-Urban,1684,2,6.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,667,41.8,30.0,6134,15347,670,6982814,4983339,11966153
+P0668,Urban,1516,1,9.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,682,37.3,28.1,5582,13977,695,8484506,6172544,14657050
+P0669,Semi-Urban,1619,2,6.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,680,44.8,30.1,6782,16086,760,7396275,5620812,13017087
+P0670,Urban,1706,2,6.0,RCC Sloped Roof,Hard,Apex Weather Proof,Granite,Premium,688,43.1,32.8,7478,14195,683,8600589,6225114,14825703
+P0671,Urban,1565,2,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Granite,Premium,697,38.2,29.0,6271,15036,715,7561835,5429353,12991188
+P0672,Urban,1197,1,6.0,Metal Sheet Roof,Hard,Standard Acrylic,Ceramic Tiles,Basic,487,32.4,23.4,4795,10998,546,2593843,1658599,4252442
+P0673,Urban,1411,2,9.0,RCC Flat Roof,Soft,Royal Emulsion,Imported Vitrified Tiles,Premium,553,37.2,26.9,5896,13000,613,8593976,5456370,14050346
+P0674,Semi-Urban,1260,1,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,509,32.2,20.1,5528,12117,539,4297963,2824325,7122288
+P0675,Urban,1440,1,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,549,34.8,26.9,5774,12223,576,4304982,2731794,7036776
+P0676,Urban,1002,2,4.5,RCC Flat Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,389,23.3,18.3,3892,9692,493,2754769,1773582,4528351
+P0677,Urban,1596,3,6.0,RCC Flat Roof,Medium,Apex Weather Proof,Imported Vitrified Tiles,Premium,695,38.6,25.7,7068,13747,653,8393577,5549854,13943431
+P0678,Urban,1174,1,6.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,474,28.8,23.1,5178,11072,566,4528675,3290455,7819130
+P0679,Urban,987,2,6.0,RCC Flat Roof,Soft,Distemper,Mosaic,Basic,436,21.9,16.7,3974,9235,387,2653477,1960234,4613711
+P0680,Urban,1157,1,6.0,RCC Flat Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,463,31.4,23.1,4777,11095,540,2616487,1884451,4500938
+P0681,Urban,1000,1,4.5,Metal Sheet Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,409,23.0,15.6,4078,8728,362,2963723,1869333,4833056
+P0682,Urban,1420,3,9.0,RCC Flat Roof,Medium,Lustre Paint,Granite,Premium,567,36.1,26.8,6287,12101,568,8078858,5664062,13742920
+P0683,Rural,1749,2,9.0,RCC Sloped Roof,Medium,Royal Emulsion,Italian Marble,Premium,711,44.7,26.8,6569,14680,616,8591210,5915723,14506933
+P0684,Urban,1354,2,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,596,33.8,24.2,5510,11943,513,4465126,2918812,7383938
+P0685,Urban,1111,1,6.0,RCC Flat Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,490,30.0,21.8,4398,10595,487,2374625,1729248,4103873
+P0686,Rural,1170,1,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Ceramic Tiles,Standard,504,27.3,19.9,4689,11255,556,4325624,2712682,7038306
+P0687,Urban,1395,2,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,617,38.7,24.5,5996,13850,519,4317227,3377047,7694274
+P0688,Semi-Urban,1771,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Granite,Premium,763,46.0,34.3,7739,16218,734,6569291,4407074,10976365
+P0689,Semi-Urban,963,2,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,433,25.7,15.8,3638,8989,466,2382069,1623582,4005651
+P0690,Urban,1771,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Imported Vitrified Tiles,Premium,700,42.6,33.4,7208,14495,734,6429281,4372639,10801920
+P0691,Rural,1668,2,9.0,RCC Sloped Roof,Hard,Lustre Paint,Italian Marble,Premium,727,44.4,32.7,6727,13677,731,6638819,4303620,10942439
+P0692,Urban,1413,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,539,39.3,27.7,6267,12335,607,4427307,2745350,7172657
+P0693,Rural,1173,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,512,32.4,22.2,4258,9574,414,4656421,3133822,7790243
+P0694,Semi-Urban,1466,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,585,33.5,22.9,6157,11745,616,8469875,6464692,14934567
+P0695,Semi-Urban,1739,2,9.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,721,41.8,28.7,6203,17027,789,8391601,6400650,14792251
+P0696,Urban,1418,1,6.0,Slab Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,548,34.7,27.3,5986,13850,627,4528289,3446582,7974871
+P0697,Urban,1718,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,688,46.8,25.8,6049,15344,662,6158245,4081766,10240011
+P0698,Urban,1156,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Ceramic Tiles,Standard,513,27.4,18.4,4348,10985,468,4037021,3040464,7077485
+P0699,Urban,1503,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Imported Vitrified Tiles,Premium,660,39.2,29.7,6028,14770,744,7107957,4528608,11636565
+P0700,Urban,1341,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,573,36.5,22.6,5822,11884,550,4042110,3154105,7196215
+P0701,Semi-Urban,1402,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,603,34.3,21.2,4954,13136,666,4703724,3103777,7807501
+P0702,Urban,1405,3,9.0,RCC Sloped Roof,Hard,Royal Emulsion,Italian Marble,Premium,557,37.4,24.8,6221,12444,675,5960746,4194931,10155677
+P0703,Rural,1461,3,9.0,RCC Flat Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,573,32.8,24.8,5956,14186,724,8677783,6121388,14799171
+P0704,Urban,1750,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Granite,Premium,772,44.2,28.3,7614,15950,666,8211752,5533825,13745577
+P0705,Urban,1605,3,6.0,RCC Flat Roof,Soft,Apex Weather Proof,Italian Marble,Premium,641,38.5,29.3,6832,15245,684,8656226,5565801,14222027
+P0706,Urban,1115,1,4.5,RCC Flat Roof,Hard,Distemper,Ceramic Tiles,Basic,476,27.2,19.9,4612,11088,401,2412779,1711100,4123879
+P0707,Urban,1550,3,6.0,RCC Flat Roof,Hard,Royal Emulsion,Granite,Premium,656,34.6,24.9,5540,13295,688,7355477,5028082,12383559
+P0708,Semi-Urban,958,1,6.0,RCC Flat Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,386,26.2,14.6,3688,7891,339,2578388,1970862,4549250
+P0709,Urban,1691,3,9.0,RCC Sloped Roof,Soft,Royal Emulsion,Imported Vitrified Tiles,Premium,726,46.3,27.4,6502,16074,699,8198435,5236344,13434779
+P0710,Semi-Urban,1170,2,9.0,RCC Flat Roof,Soft,Plastic Emulsion,Ceramic Tiles,Standard,499,29.0,21.1,4413,10001,429,4137800,3161928,7299728
+P0711,Urban,1087,2,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,428,26.9,17.2,4845,10388,500,2864440,1898415,4762855
+P0712,Urban,1260,2,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,492,30.6,22.9,5099,10662,505,4728946,3194335,7923281
+P0713,Semi-Urban,1443,1,6.0,Slab Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,617,32.1,26.0,5750,11849,565,4755967,2997246,7753213
+P0714,Urban,1198,2,9.0,RCC Flat Roof,Soft,Plastic Emulsion,Ceramic Tiles,Standard,471,28.2,18.3,5349,11625,583,4528359,2885057,7413416
+P0715,Urban,1634,2,9.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,723,41.6,27.4,6099,15087,696,9057283,5563126,14620409
+P0716,Rural,1010,1,4.5,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,416,22.8,16.8,3918,9020,424,2667087,1967937,4635024
+P0717,Semi-Urban,1170,2,4.5,RCC Flat Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,518,28.1,23.4,4215,9483,559,2681428,1674114,4355542
+P0718,Urban,955,1,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,387,21.1,17.6,3650,8731,471,2377429,1735997,4113426
+P0719,Rural,1473,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,626,37.4,23.3,6389,14614,524,7433270,5730371,13163641
+P0720,Semi-Urban,1224,2,9.0,RCC Flat Roof,Medium,Premium Acrylic,Ceramic Tiles,Standard,483,31.3,23.1,4698,10721,591,4566249,3249302,7815551
+P0721,Semi-Urban,1183,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,527,30.2,19.8,4880,11618,462,2886151,2003086,4889237
+P0722,Rural,1708,1,9.0,RCC Sloped Roof,Medium,Lustre Paint,Italian Marble,Premium,650,41.7,29.6,7527,16717,845,6659548,4202431,10861979
+P0723,Urban,1471,3,9.0,RCC Flat Roof,Soft,Lustre Paint,Granite,Premium,660,40.2,29.1,5652,12078,556,7792701,5414602,13207303
+P0724,Semi-Urban,1270,1,9.0,Slab Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,493,28.0,19.4,5608,12467,487,4238780,2911373,7150153
+P0725,Rural,1151,2,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,488,25.7,20.8,4204,11120,464,4324799,3171907,7496706
+P0726,Semi-Urban,1074,2,6.0,RCC Flat Roof,Soft,Standard Acrylic,Mosaic,Basic,460,27.7,16.2,4562,8788,417,2402097,1648046,4050143
+P0727,Urban,1720,2,9.0,RCC Flat Roof,Medium,Apex Weather Proof,Granite,Premium,758,46.4,28.9,7052,14297,740,5783511,4295360,10078871
+P0728,Semi-Urban,1014,1,6.0,RCC Flat Roof,Hard,Distemper,Ceramic Tiles,Basic,393,23.1,18.1,3822,8907,415,2584222,1943835,4528057
+P0729,Urban,1496,3,9.0,RCC Sloped Roof,Hard,Lustre Paint,Italian Marble,Premium,639,40.4,25.9,6124,12767,668,8832763,5432995,14265758
+P0730,Urban,1665,1,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Italian Marble,Premium,663,37.9,29.2,6083,15372,621,8581661,5850991,14432652
+P0731,Semi-Urban,1577,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Granite,Premium,638,35.5,29.4,6893,15675,771,6207692,4004930,10212622
+P0732,Semi-Urban,1148,1,4.5,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,490,27.3,19.1,4800,9986,438,2785010,1996450,4781460
+P0733,Urban,1380,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,530,32.2,26.2,5940,11611,552,4026546,3061766,7088312
+P0734,Urban,1302,2,9.0,Slab Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,554,31.6,25.9,5423,12906,495,4889909,3102261,7992170
+P0735,Urban,1398,1,6.0,Slab Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,593,38.2,23.4,5542,13689,546,4913023,3076541,7989564
+P0736,Semi-Urban,1098,1,4.5,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,428,28.0,20.1,4634,9344,398,2812625,2167932,4980557
+P0737,Urban,1437,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,619,35.2,25.3,5194,14346,568,4752404,3193439,7945843
+P0738,Urban,976,1,6.0,RCC Flat Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,424,25.7,14.9,3983,8062,483,2912611,1872480,4785091
+P0739,Urban,1244,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,480,30.2,23.9,5482,10130,553,4280622,2841129,7121751
+P0740,Urban,1221,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,504,32.5,23.2,5066,10910,532,4470625,3196358,7666983
+P0741,Urban,1294,2,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,558,34.0,25.8,5204,12490,564,4523287,2862332,7385619
+P0742,Semi-Urban,1664,3,6.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,699,44.0,29.0,5872,13525,716,7969978,5244442,13214420
+P0743,Urban,1370,1,9.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,525,32.1,25.2,4911,11630,655,4594359,3127549,7721908
+P0744,Urban,1310,2,9.0,Slab Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,534,34.5,25.4,5154,11882,641,3992159,3055523,7047682
+P0745,Semi-Urban,1519,1,6.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,657,36.1,28.6,6448,12898,697,6530464,4266072,10796536
+P0746,Urban,1188,1,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,470,33.2,21.1,4984,9785,460,2393137,1817282,4210419
+P0747,Urban,1424,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,559,38.1,24.6,5451,11842,534,4368394,2915741,7284135
+P0748,Urban,1230,2,6.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,482,27.2,18.6,4929,11646,452,4082928,3039157,7122085
+P0749,Urban,973,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,409,26.8,18.2,4053,8917,411,2409339,1808737,4218076
+P0750,Semi-Urban,1349,1,6.0,RCC Flat Roof,Hard,Premium Acrylic,Ceramic Tiles,Standard,588,35.6,25.6,5626,12599,607,4282743,2965792,7248535
+P0751,Urban,1564,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Imported Vitrified Tiles,Premium,627,37.8,29.1,6430,13070,635,8027733,5623242,13650975
+P0752,Urban,1018,1,4.5,RCC Flat Roof,Hard,Distemper,Ceramic Tiles,Basic,388,24.8,18.8,4270,9019,461,2470470,1707803,4178273
+P0753,Rural,1267,2,6.0,Slab Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,520,32.1,19.4,5316,10269,598,4365496,2796963,7162459
+P0754,Urban,1453,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,653,33.5,28.9,5632,12206,598,6934271,4684042,11618313
+P0755,Urban,1699,3,6.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,687,39.1,28.7,6655,14613,761,7047677,4409517,11457194
+P0756,Urban,1009,1,4.5,Metal Sheet Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,450,23.1,17.5,4073,9064,474,2516345,1675997,4192342
+P0757,Urban,1420,1,6.0,RCC Flat Roof,Soft,Premium Acrylic,Ceramic Tiles,Standard,617,32.4,27.4,5537,13432,610,4479251,2867199,7346450
+P0758,Urban,1246,1,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,499,29.6,21.8,5440,11948,616,3985063,3076730,7061793
+P0759,Urban,1143,2,6.0,RCC Flat Roof,Medium,Distemper,Mosaic,Basic,464,25.9,20.0,4999,11172,401,2501892,1578315,4080207
+P0760,Urban,1069,2,4.5,Metal Sheet Roof,Soft,Distemper,Ceramic Tiles,Basic,430,27.2,17.6,4171,10186,413,2465109,1573863,4038972
+P0761,Urban,1533,2,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Italian Marble,Premium,620,37.8,27.0,6334,14718,640,7711076,4949773,12660849
+P0762,Urban,1719,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Imported Vitrified Tiles,Premium,738,46.0,31.6,6371,14131,815,7035672,4656730,11692402
+P0763,Urban,1604,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Granite,Premium,718,43.9,26.8,7215,12843,568,6671077,4275336,10946413
+P0764,Urban,1268,2,6.0,Slab Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,558,28.9,23.0,5351,10551,564,3976255,3084513,7060768
+P0765,Urban,1610,2,6.0,RCC Sloped Roof,Hard,Apex Weather Proof,Imported Vitrified Tiles,Premium,612,39.9,24.3,7097,14549,581,8275884,6329907,14605791
+P0766,Urban,1301,1,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,568,30.1,21.1,5694,12540,575,4920419,3019814,7940233
+P0767,Semi-Urban,1016,2,4.5,Metal Sheet Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,415,28.3,18.2,4436,10065,458,2499722,1716114,4215836
+P0768,Urban,1013,2,4.5,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,407,23.9,19.0,3915,9575,423,2395064,1644955,4040019
+P0769,Urban,1429,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Imported Vitrified Tiles,Premium,594,39.4,24.3,6428,13087,509,8856214,6023045,14879259
+P0770,Urban,985,1,6.0,RCC Flat Roof,Hard,Standard Acrylic,Mosaic,Basic,390,26.2,15.2,3823,8878,384,2386320,1646160,4032480
+P0771,Semi-Urban,1627,2,9.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,640,44.2,31.6,6177,15695,656,8331893,6390296,14722189
+P0772,Semi-Urban,1100,1,4.5,RCC Flat Roof,Hard,Standard Acrylic,Mosaic,Basic,430,24.6,18.3,4357,9250,434,2629407,1967038,4596445
+P0773,Semi-Urban,1569,3,6.0,RCC Flat Roof,Soft,Lustre Paint,Italian Marble,Premium,634,35.3,27.3,6634,14330,595,8128086,5434803,13562889
+P0774,Semi-Urban,1215,2,6.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,540,32.9,20.5,4949,9786,473,4780221,3152224,7932445
+P0775,Semi-Urban,1096,2,4.5,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,425,28.9,21.6,4505,10337,508,2506534,1846834,4353368
+P0776,Urban,1622,1,6.0,RCC Flat Roof,Medium,Lustre Paint,Granite,Premium,696,38.6,30.5,6010,14741,763,5927750,4081612,10009362
+P0777,Rural,1505,2,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Italian Marble,Premium,649,40.0,25.7,5714,13456,547,5792167,4500338,10292505
+P0778,Urban,1154,2,6.0,Slab Roof,Soft,Premium Acrylic,Ceramic Tiles,Standard,467,25.9,20.6,4683,11193,576,4243933,2943211,7187144
+P0779,Urban,1262,1,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,536,34.6,19.5,4690,12227,561,4058040,3127861,7185901
+P0780,Urban,1446,2,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,640,35.6,23.4,5656,13638,529,4154465,3055292,7209757
+P0781,Urban,1179,1,9.0,Slab Roof,Hard,Premium Acrylic,Ceramic Tiles,Standard,527,27.6,18.3,4301,11087,541,4462784,2969563,7432347
+P0782,Urban,1230,1,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Ceramic Tiles,Standard,544,33.2,18.7,5470,10156,436,4193331,2976445,7169776
+P0783,Urban,1430,2,9.0,RCC Flat Roof,Medium,Apex Weather Proof,Italian Marble,Premium,607,39.8,22.4,5603,13871,700,6509715,4411267,10920982
+P0784,Urban,1520,2,6.0,RCC Flat Roof,Soft,Apex Weather Proof,Italian Marble,Premium,608,35.6,26.8,5493,13829,532,8406012,6101345,14507357
+P0785,Urban,1774,3,9.0,RCC Flat Roof,Medium,Royal Emulsion,Imported Vitrified Tiles,Premium,703,41.8,32.9,6523,15839,626,8445076,6411017,14856093
+P0786,Semi-Urban,1034,1,6.0,RCC Flat Roof,Hard,Distemper,Mosaic,Basic,433,27.0,17.3,4209,9197,464,2672984,2074476,4747460
+P0787,Urban,1228,2,9.0,RCC Flat Roof,Hard,Premium Acrylic,Ceramic Tiles,Standard,533,33.8,20.3,4602,10767,439,4440284,2855707,7295991
+P0788,Rural,1418,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,624,36.7,21.4,5990,11444,708,4791108,3032920,7824028
+P0789,Urban,1177,2,6.0,Slab Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,499,30.0,20.8,5044,10724,563,4165448,3091962,7257410
+P0790,Semi-Urban,1147,1,6.0,RCC Flat Roof,Hard,Standard Acrylic,Ceramic Tiles,Basic,471,27.4,20.7,4226,10614,431,2356420,1822892,4179312
+P0791,Urban,1560,3,9.0,RCC Flat Roof,Medium,Lustre Paint,Granite,Premium,637,36.9,28.2,6531,13912,678,6711760,4443941,11155701
+P0792,Semi-Urban,1328,2,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Ceramic Tiles,Standard,547,29.8,26.3,5815,12628,650,4525802,3369768,7895570
+P0793,Semi-Urban,1368,1,9.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,539,37.5,22.4,5364,11497,558,4533240,3156750,7689990
+P0794,Urban,1322,1,9.0,Slab Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,538,33.7,25.3,4876,12650,580,4767119,3001973,7769092
+P0795,Urban,1502,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,577,39.7,24.9,5778,12641,626,6815668,5287743,12103411
+P0796,Urban,1024,1,4.5,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,438,25.2,19.8,4295,8208,453,2560647,1966476,4527123
+P0797,Semi-Urban,1012,1,4.5,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,416,26.6,17.1,4480,8287,410,3007569,1983938,4991507
+P0798,Urban,1309,1,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,542,36.2,24.5,5537,10593,566,4502120,3154293,7656413
+P0799,Rural,1213,1,9.0,Slab Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,471,33.0,18.6,4630,12108,501,4121222,3136119,7257341
+P0800,Rural,1107,1,4.5,Metal Sheet Roof,Soft,Distemper,Ceramic Tiles,Basic,488,24.7,21.5,4117,10358,484,2956474,2027665,4984139
+P0801,Semi-Urban,1205,1,9.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,508,31.0,18.3,4695,11047,555,4111590,2989981,7101571
+P0802,Urban,1662,2,9.0,RCC Sloped Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,692,41.9,31.4,6340,14897,823,8446792,5623481,14070273
+P0803,Urban,1227,1,6.0,Slab Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,486,30.1,24.1,5373,10937,505,4232147,2901079,7133226
+P0804,Urban,1200,2,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,530,30.6,19.5,4571,11725,473,4264959,2787224,7052183
+P0805,Rural,1402,2,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,562,38.0,25.3,5543,12359,595,4499307,3500509,7999816
+P0806,Semi-Urban,1331,2,6.0,Slab Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,571,31.4,21.4,5555,10925,556,4715524,3282778,7998302
+P0807,Urban,1139,2,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,432,28.9,20.4,5093,9935,465,2394425,1790842,4185267
+P0808,Urban,998,1,4.5,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,384,26.4,18.8,4488,9780,487,2901350,1871453,4772803
+P0809,Semi-Urban,1305,2,6.0,RCC Flat Roof,Soft,Premium Acrylic,Ceramic Tiles,Standard,542,34.9,20.7,5315,13007,513,4331740,2796805,7128545
+P0810,Urban,1717,3,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Italian Marble,Premium,699,45.6,26.4,7494,15213,750,6174987,4024041,10199028
+P0811,Urban,1163,2,6.0,RCC Flat Roof,Hard,Standard Acrylic,Ceramic Tiles,Basic,457,27.1,20.7,4985,10035,421,2874880,2015433,4890313
+P0812,Semi-Urban,1131,1,6.0,RCC Flat Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,437,31.2,20.1,4241,9514,418,2471692,1749971,4221663
+P0813,Urban,1593,2,9.0,RCC Flat Roof,Medium,Apex Weather Proof,Granite,Premium,645,39.3,30.7,5783,13781,695,7254495,4824586,12079081
+P0814,Semi-Urban,991,1,4.5,Metal Sheet Roof,Hard,Distemper,Ceramic Tiles,Basic,409,22.1,19.7,4251,8899,359,2571693,1746512,4318205
+P0815,Semi-Urban,962,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,372,25.2,15.4,4257,8110,373,2421485,1769231,4190716
+P0816,Semi-Urban,1238,1,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,536,33.7,23.8,5527,11343,602,4519778,2907827,7427605
+P0817,Semi-Urban,1404,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,545,37.7,21.1,5352,11721,615,4033474,2978152,7011626
+P0818,Urban,1386,2,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,532,35.0,21.8,5110,13559,486,4560466,2927871,7488337
+P0819,Urban,1445,2,9.0,RCC Sloped Roof,Medium,Royal Emulsion,Granite,Premium,562,36.2,23.7,5290,12791,534,7702696,5093775,12796471
+P0820,Urban,1584,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,625,37.5,27.8,6353,15251,733,7781044,4874679,12655723
+P0821,Semi-Urban,1053,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,422,27.2,20.4,4108,8564,450,2470474,1783402,4253876
+P0822,Semi-Urban,1642,2,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Granite,Premium,625,38.1,30.2,7002,15894,646,9087141,5668023,14755164
+P0823,Urban,1614,2,6.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,694,42.3,27.8,6491,14578,732,7589078,5893616,13482694
+P0824,Semi-Urban,1322,2,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,587,32.6,21.0,4690,11227,491,4499861,3082339,7582200
+P0825,Urban,1442,1,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,579,39.3,24.1,5940,12360,703,4271645,2767288,7038933
+P0826,Urban,950,1,4.5,Metal Sheet Roof,Hard,Distemper,Ceramic Tiles,Basic,420,26.6,17.8,4247,9095,469,2981334,1967462,4948796
+P0827,Urban,1484,2,9.0,RCC Flat Roof,Medium,Apex Weather Proof,Granite,Premium,610,34.6,27.1,6211,13905,525,7373262,4636338,12009600
+P0828,Urban,1545,3,6.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,599,41.8,25.2,5847,15326,628,7691555,6029273,13720828
+P0829,Urban,1226,1,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,544,30.6,20.8,5210,9987,445,4265303,2853996,7119299
+P0830,Urban,1276,1,6.0,RCC Flat Roof,Soft,Premium Acrylic,Ceramic Tiles,Standard,507,34.0,20.8,4732,12617,450,4813879,2976535,7790414
+P0831,Urban,1468,1,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,605,37.6,25.6,5855,11971,555,8165915,5931274,14097189
+P0832,Urban,1255,1,6.0,RCC Flat Roof,Medium,Premium Acrylic,Ceramic Tiles,Standard,485,34.6,19.5,5188,11727,567,4373508,3220428,7593936
+P0833,Urban,1534,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Imported Vitrified Tiles,Premium,665,42.6,27.0,6095,14589,739,7873484,4869900,12743384
+P0834,Urban,1581,2,6.0,RCC Sloped Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,637,37.8,26.7,6529,14045,702,7959611,6033911,13993522
+P0835,Rural,1321,2,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Ceramic Tiles,Standard,538,32.4,26.2,5541,12468,573,4780580,2949026,7729606
+P0836,Semi-Urban,1227,1,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,491,31.7,19.5,4665,11008,507,4471443,3423589,7895032
+P0837,Rural,994,1,4.5,Metal Sheet Roof,Hard,Distemper,Ceramic Tiles,Basic,422,24.0,18.3,4203,9324,364,2424204,1620088,4044292
+P0838,Urban,1355,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,580,34.4,22.7,5698,12296,569,4151768,2877032,7028800
+P0839,Semi-Urban,1292,1,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,559,34.9,25.1,5306,12560,455,4338887,3321115,7660002
+P0840,Urban,1294,2,6.0,Slab Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,503,34.8,25.4,5535,12879,494,4384214,3328390,7712604
+P0841,Urban,1662,2,6.0,RCC Flat Roof,Medium,Lustre Paint,Granite,Premium,681,41.1,33.0,6309,15381,686,7973200,6171987,14145187
+P0842,Urban,1448,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,640,38.5,27.6,6245,13445,606,4780833,3032509,7813342
+P0843,Rural,1710,3,6.0,RCC Sloped Roof,Medium,Royal Emulsion,Italian Marble,Premium,717,44.1,33.0,6927,15084,813,6262233,3856796,10119029
+P0844,Semi-Urban,1032,1,4.5,RCC Flat Roof,Hard,Distemper,Ceramic Tiles,Basic,406,28.2,20.3,4619,10194,403,2878747,1995639,4874386
+P0845,Urban,1542,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Granite,Premium,604,38.7,26.4,6770,13660,663,8661607,5369441,14031048
+P0846,Urban,1401,1,9.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,602,32.7,22.2,6073,12212,585,4094068,3194922,7288990
+P0847,Urban,1667,2,6.0,RCC Flat Roof,Hard,Royal Emulsion,Granite,Premium,699,45.6,30.3,6983,15561,695,8330156,5522032,13852188
+P0848,Urban,1020,2,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,392,23.8,18.0,4279,9739,363,2846313,2013537,4859850
+P0849,Urban,1279,2,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,506,31.2,23.4,5036,12216,585,4217887,3213313,7431200
+P0850,Urban,1429,1,9.0,Slab Roof,Medium,Premium Acrylic,Ceramic Tiles,Standard,555,38.7,23.8,5849,12972,642,4761647,3116294,7877941
+P0851,Urban,1405,3,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Italian Marble,Premium,630,37.7,26.1,5868,12889,643,8452848,5988705,14441553
+P0852,Semi-Urban,1167,2,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Ceramic Tiles,Standard,470,31.8,22.4,5195,11180,523,4705507,2990838,7696345
+P0853,Urban,1654,3,9.0,RCC Flat Roof,Medium,Royal Emulsion,Granite,Premium,689,45.6,31.6,7184,15458,654,6922250,5391902,12314152
+P0854,Rural,956,1,4.5,RCC Flat Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,412,25.5,18.2,3891,7668,443,2597559,1988560,4586119
+P0855,Urban,1451,3,6.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,605,32.2,22.1,5967,13947,603,7729258,5298865,13028123
+P0856,Semi-Urban,1678,2,6.0,RCC Flat Roof,Hard,Apex Weather Proof,Granite,Premium,703,38.3,27.6,6700,15549,633,7316360,5736169,13052529
+P0857,Urban,1615,1,9.0,RCC Sloped Roof,Hard,Apex Weather Proof,Imported Vitrified Tiles,Premium,653,42.5,27.8,6710,14019,643,7268184,5146172,12414356
+P0858,Urban,1381,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,607,34.8,23.6,5664,12801,492,4855255,2975883,7831138
+P0859,Urban,1179,1,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,465,32.2,23.5,4228,11465,481,4176509,2885033,7061542
+P0860,Rural,1542,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,692,42.4,28.7,5559,13074,582,8642538,6224357,14866895
+P0861,Urban,1040,2,4.5,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,449,28.5,15.9,4185,8388,437,2602337,1642101,4244438
+P0862,Urban,1288,1,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Ceramic Tiles,Standard,509,29.5,25.2,5716,10336,591,4589338,3343111,7932449
+P0863,Urban,1226,1,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,550,27.4,21.4,5239,10178,541,4290012,3179090,7469102
+P0864,Semi-Urban,1284,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,538,33.3,21.2,4656,12225,613,4216162,3110937,7327099
+P0865,Urban,1411,2,6.0,Slab Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,554,34.0,26.0,5309,12492,575,4543648,2954920,7498568
+P0866,Semi-Urban,1388,1,6.0,Slab Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,574,30.9,24.0,5439,13267,559,4765548,2933822,7699370
+P0867,Urban,1513,3,9.0,RCC Sloped Roof,Medium,Royal Emulsion,Granite,Premium,597,34.3,25.8,5577,12413,598,7923618,5031315,12954933
+P0868,Urban,1686,3,9.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,739,43.9,31.2,6804,16472,653,6681535,4781652,11463187
+P0869,Semi-Urban,1106,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,484,24.6,20.2,4218,9272,497,2670814,1821934,4492748
+P0870,Urban,962,1,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,416,24.7,18.2,3688,9391,425,2749935,1763025,4512960
+P0871,Urban,1350,1,9.0,RCC Flat Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,533,37.7,25.9,5790,11691,580,4101705,3116732,7218437
+P0872,Urban,1735,3,9.0,RCC Flat Roof,Medium,Lustre Paint,Granite,Premium,669,47.3,26.5,7035,16585,637,6268880,4460565,10729445
+P0873,Urban,1224,1,9.0,RCC Flat Roof,Medium,Premium Acrylic,Ceramic Tiles,Standard,496,33.0,19.5,5271,11401,463,4441785,3240967,7682752
+P0874,Urban,1195,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,496,30.2,20.7,4503,9693,491,4157758,3225208,7382966
+P0875,Urban,1561,3,9.0,RCC Flat Roof,Soft,Royal Emulsion,Italian Marble,Premium,700,37.6,26.3,6415,13344,709,6566223,4970244,11536467
+P0876,Urban,1769,3,6.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,679,48.3,34.2,6823,17304,776,7710520,4963869,12674389
+P0877,Urban,1285,2,9.0,Slab Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,532,35.0,21.2,4702,10641,609,4308508,2804890,7113398
+P0878,Urban,1294,2,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,580,30.0,19.8,5641,12599,544,4298375,2976495,7274870
+P0879,Semi-Urban,1427,2,9.0,RCC Sloped Roof,Soft,Apex Weather Proof,Granite,Premium,580,32.5,24.2,6340,13955,611,8109154,5583642,13692796
+P0880,Urban,1587,2,9.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,648,41.9,31.5,6838,15680,588,6925033,5347506,12272539
+P0881,Urban,1692,1,9.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,760,41.2,33.0,6418,16084,647,6755226,4696260,11451486
+P0882,Semi-Urban,1198,1,6.0,RCC Flat Roof,Medium,Premium Acrylic,Ceramic Tiles,Standard,493,30.1,22.8,4705,11265,497,4573057,3243277,7816334
+P0883,Semi-Urban,1402,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Granite,Premium,568,39.2,25.2,5466,13558,644,6578408,4295775,10874183
+P0884,Urban,1581,2,6.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,635,36.2,26.0,5901,15568,729,7145380,5196241,12341621
+P0885,Semi-Urban,1158,1,4.5,Metal Sheet Roof,Soft,Distemper,Ceramic Tiles,Basic,515,30.2,17.6,5001,9727,505,2365010,1657129,4022139
+P0886,Urban,1619,3,6.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,669,44.3,25.8,6202,14234,709,8888112,5560455,14448567
+P0887,Urban,1363,1,6.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,521,30.6,22.2,5511,12920,600,4125046,2944106,7069152
+P0888,Urban,1719,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,683,43.7,25.9,6447,14539,666,8232987,5670878,13903865
+P0889,Urban,1477,2,6.0,RCC Sloped Roof,Medium,Apex Weather Proof,Italian Marble,Premium,639,36.8,23.6,5353,12835,547,9016383,5528606,14544989
+P0890,Urban,1585,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,699,38.0,24.8,6833,14816,612,7228068,4977649,12205717
+P0891,Urban,1318,1,6.0,Slab Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,582,35.0,24.6,5069,12883,587,4851519,3087340,7938859
+P0892,Urban,1139,1,4.5,Metal Sheet Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,496,30.3,20.9,4960,11251,497,2380632,1765019,4145651
+P0893,Urban,1168,1,4.5,Metal Sheet Roof,Medium,Distemper,Mosaic,Basic,460,32.1,20.1,4955,10621,453,2856246,1902059,4758305
+P0894,Rural,1264,1,9.0,RCC Flat Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,542,29.3,23.3,4768,12215,458,4711417,3058219,7769636
+P0895,Urban,1388,1,9.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,598,36.2,27.1,5178,11342,497,4828573,3052615,7881188
+P0896,Rural,1626,1,9.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,658,40.6,31.5,6952,13281,786,6772951,4739681,11512632
+P0897,Semi-Urban,1466,3,6.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,576,39.3,27.5,6151,13157,593,6233240,4466955,10700195
+P0898,Urban,993,1,6.0,RCC Flat Roof,Hard,Distemper,Ceramic Tiles,Basic,404,25.8,17.2,3856,8180,384,2307795,1769519,4077314
+P0899,Semi-Urban,1766,2,6.0,RCC Flat Roof,Hard,Royal Emulsion,Granite,Premium,731,42.1,31.4,7363,14222,741,6015621,4660577,10676198
+P0900,Urban,1540,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,592,38.4,26.7,5792,15158,635,7833197,4969346,12802543
+P0901,Urban,1612,2,6.0,RCC Flat Roof,Medium,Lustre Paint,Italian Marble,Premium,684,40.0,31.1,6193,13755,802,7126700,4467686,11594386
+P0902,Urban,1476,2,9.0,RCC Flat Roof,Soft,Royal Emulsion,Italian Marble,Premium,573,40.6,22.7,6182,12477,524,7807611,6046031,13853642
+P0903,Urban,1568,3,9.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,661,36.9,26.1,6180,14203,654,6124644,4263297,10387941
+P0904,Urban,1354,1,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,590,36.3,26.6,4853,11566,629,4250679,2908285,7158964
+P0905,Urban,1369,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,540,34.7,27.2,4892,11729,529,4119950,3046265,7166215
+P0906,Urban,1077,1,6.0,RCC Flat Roof,Hard,Distemper,Ceramic Tiles,Basic,426,24.7,19.5,4841,8998,465,2732753,2085356,4818109
+P0907,Rural,1190,1,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,486,32.4,23.4,5346,11802,417,2415668,1876087,4291755
+P0908,Urban,1428,2,9.0,RCC Flat Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,640,39.7,28.4,6130,14247,690,6869904,4874406,11744310
+P0909,Semi-Urban,1414,1,6.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,540,35.5,22.6,6020,13125,690,8837824,5722514,14560338
+P0910,Urban,1408,1,6.0,RCC Flat Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,550,31.6,26.3,6047,12416,576,4814680,2985477,7800157
+P0911,Rural,1301,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Ceramic Tiles,Standard,571,35.8,22.4,5251,12338,591,4437179,2796086,7233265
+P0912,Semi-Urban,1656,2,9.0,RCC Sloped Roof,Medium,Lustre Paint,Granite,Premium,636,46.0,27.7,7173,14302,736,9278684,5710738,14989422
+P0913,Semi-Urban,1389,2,9.0,RCC Flat Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,529,32.0,26.7,4891,11759,643,4261610,2898755,7160365
+P0914,Semi-Urban,1262,1,9.0,Slab Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,504,30.3,23.0,4657,12400,529,4489162,3256988,7746150
+P0915,Semi-Urban,1365,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,587,36.9,23.2,5547,11541,605,3934263,3082082,7016345
+P0916,Urban,1301,1,9.0,RCC Flat Roof,Soft,Plastic Emulsion,Vitrified Tiles,Standard,575,29.0,20.4,4660,12601,457,4675956,2968249,7644205
+P0917,Urban,1503,1,9.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,659,39.6,28.8,5561,14695,598,5619329,4400796,10020125
+P0918,Semi-Urban,1072,2,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,431,24.5,19.0,4058,9075,439,3000325,1941495,4941820
+P0919,Urban,1016,1,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,406,24.3,16.8,4315,9259,490,2438997,1777494,4216491
+P0920,Semi-Urban,1454,1,9.0,RCC Flat Roof,Hard,Royal Emulsion,Granite,Premium,597,32.8,26.3,5327,11854,653,8461512,5303230,13764742
+P0921,Urban,1179,1,6.0,RCC Flat Roof,Hard,Standard Acrylic,Ceramic Tiles,Basic,505,26.1,22.8,4312,10644,518,2373894,1667101,4040995
+P0922,Urban,1216,2,6.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,478,30.2,23.5,4282,11380,525,4257949,3209864,7467813
+P0923,Semi-Urban,972,2,6.0,Metal Sheet Roof,Medium,Distemper,Mosaic,Basic,423,24.7,15.0,4036,8799,367,2677843,1691041,4368884
+P0924,Urban,962,1,6.0,RCC Flat Roof,Medium,Standard Acrylic,Ceramic Tiles,Basic,420,26.1,14.8,3697,9018,408,2507183,1880295,4387478
+P0925,Urban,1268,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,502,28.5,22.8,5561,11068,566,4251014,3156421,7407435
+P0926,Urban,1517,2,9.0,RCC Sloped Roof,Medium,Royal Emulsion,Italian Marble,Premium,582,36.8,26.3,6233,12155,756,8107284,5826676,13933960
+P0927,Semi-Urban,1627,2,9.0,RCC Flat Roof,Soft,Apex Weather Proof,Imported Vitrified Tiles,Premium,708,40.2,26.1,6033,13509,702,7797532,4877301,12674833
+P0928,Rural,1317,1,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,522,29.2,25.1,5256,11344,481,4108312,3178987,7287299
+P0929,Urban,1370,1,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,538,37.8,24.6,4961,11464,675,4716325,3088411,7804736
+P0930,Semi-Urban,1436,2,9.0,RCC Sloped Roof,Hard,Royal Emulsion,Italian Marble,Premium,595,33.8,28.1,5598,13308,687,6414606,3947886,10362492
+P0931,Urban,1499,1,6.0,RCC Flat Roof,Medium,Royal Emulsion,Granite,Premium,581,35.6,23.5,6510,14231,569,7127573,5151215,12278788
+P0932,Rural,1090,1,6.0,Metal Sheet Roof,Hard,Distemper,Ceramic Tiles,Basic,489,28.7,19.9,4436,10894,541,2721060,1873098,4594158
+P0933,Urban,1151,1,6.0,Metal Sheet Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,463,29.5,22.3,5045,9457,476,2623202,1838911,4462113
+P0934,Rural,1419,2,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Ceramic Tiles,Standard,555,36.9,22.7,5556,12886,619,4577243,3100754,7677997
+P0935,Semi-Urban,1680,1,6.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,684,46.9,27.3,6512,14451,615,6694830,4664013,11358843
+P0936,Urban,1483,2,6.0,RCC Flat Roof,Hard,Apex Weather Proof,Italian Marble,Premium,605,38.4,26.2,5745,14799,586,7770056,5704378,13474434
+P0937,Semi-Urban,1482,2,6.0,RCC Sloped Roof,Hard,Royal Emulsion,Italian Marble,Premium,593,38.1,26.3,6349,12654,663,5784323,4232540,10016863
+P0938,Urban,967,2,6.0,RCC Flat Roof,Medium,Distemper,Ceramic Tiles,Basic,369,22.5,16.6,3789,7821,423,2730696,1874334,4605030
+P0939,Urban,1484,3,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,660,38.8,27.5,5539,14486,639,8997618,5718197,14715815
+P0940,Urban,1408,1,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,584,34.0,22.9,5985,12220,583,4530899,3224562,7755461
+P0941,Semi-Urban,1503,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Italian Marble,Premium,580,36.8,27.2,6260,14917,560,9032713,5556264,14588977
+P0942,Semi-Urban,1275,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,500,32.9,23.1,5164,10838,517,4217613,3236615,7454228
+P0943,Urban,1173,1,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,454,30.2,21.9,4566,11076,467,4796635,3101070,7897705
+P0944,Urban,1036,2,6.0,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,420,28.3,16.2,3752,9311,405,2528653,1727453,4256106
+P0945,Urban,1589,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Granite,Premium,642,41.3,31.0,6716,14971,647,7483673,4691122,12174795
+P0946,Urban,1743,3,9.0,RCC Flat Roof,Hard,Lustre Paint,Granite,Premium,693,39.1,32.5,6621,15520,643,6705738,4320663,11026401
+P0947,Urban,1780,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Granite,Premium,718,42.3,27.1,6288,15232,764,8608747,5899180,14507927
+P0948,Urban,1054,2,4.5,RCC Flat Roof,Soft,Distemper,Ceramic Tiles,Basic,437,23.7,21.0,4308,8972,458,2489871,1920009,4409880
+P0949,Semi-Urban,1055,1,6.0,Metal Sheet Roof,Medium,Distemper,Mosaic,Basic,424,25.9,19.4,4065,9766,509,2993823,1931504,4925327
+P0950,Urban,1265,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,484,31.6,24.4,5171,10820,518,4378708,2909228,7287936
+P0951,Semi-Urban,1222,1,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,469,31.5,19.8,4574,12114,512,3955428,3085637,7041065
+P0952,Urban,1305,2,6.0,RCC Flat Roof,Soft,Premium Acrylic,Ceramic Tiles,Standard,580,30.6,22.3,4586,12735,487,4639346,2945145,7584491
+P0953,Urban,1495,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,607,38.0,27.7,6342,14017,598,6710149,5130517,11840666
+P0954,Urban,1147,1,6.0,RCC Flat Roof,Soft,Standard Acrylic,Ceramic Tiles,Basic,462,27.4,18.1,4943,10919,484,2493615,1716679,4210294
+P0955,Urban,1447,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,610,33.9,25.9,5624,11675,593,4647932,2907574,7555506
+P0956,Urban,1299,1,6.0,RCC Flat Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,541,31.2,25.9,4961,12325,558,4368148,2954684,7322832
+P0957,Urban,1373,2,6.0,Slab Roof,Medium,Premium Acrylic,Ceramic Tiles,Standard,543,36.2,24.2,5100,11519,497,4840483,3124339,7964822
+P0958,Urban,1482,2,9.0,RCC Sloped Roof,Hard,Royal Emulsion,Imported Vitrified Tiles,Premium,645,41.4,29.4,5912,13920,543,8377617,5907226,14284843
+P0959,Semi-Urban,1773,2,6.0,RCC Flat Roof,Hard,Apex Weather Proof,Italian Marble,Premium,726,48.3,33.4,7663,17631,723,7247675,5279000,12526675
+P0960,Urban,1404,1,9.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,605,39.3,26.7,5393,13760,502,4315039,2834979,7150018
+P0961,Urban,1746,2,6.0,RCC Flat Roof,Hard,Lustre Paint,Italian Marble,Premium,670,45.6,26.8,6465,14292,627,6263427,4609349,10872776
+P0962,Urban,1407,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,570,32.0,22.1,6177,14036,553,4528848,3435836,7964684
+P0963,Urban,1559,3,9.0,RCC Sloped Roof,Medium,Lustre Paint,Granite,Premium,640,37.0,24.6,6279,14324,678,7681415,5866224,13547639
+P0964,Urban,1179,2,9.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,475,33.0,22.6,5168,11641,472,4142086,3026327,7168413
+P0965,Urban,1512,1,9.0,RCC Flat Roof,Medium,Royal Emulsion,Granite,Premium,650,35.1,23.9,6277,12974,750,8307676,5842907,14150583
+P0966,Urban,1308,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Ceramic Tiles,Standard,585,32.5,20.3,5605,12287,527,4713283,2972531,7685814
+P0967,Rural,1186,1,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,467,29.9,21.4,4872,10408,490,4610701,2947152,7557853
+P0968,Urban,1713,3,9.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,720,45.0,33.1,7685,14558,646,8779869,6158997,14938866
+P0969,Urban,1257,1,9.0,RCC Flat Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,526,28.0,24.7,5188,12555,541,4695341,3096376,7791717
+P0970,Urban,1274,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,507,29.8,21.7,5214,11581,492,4681818,2949917,7631735
+P0971,Urban,1281,1,6.0,Slab Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,502,31.5,21.4,5704,10868,538,4338316,2701150,7039466
+P0972,Semi-Urban,953,2,4.5,Metal Sheet Roof,Medium,Distemper,Mosaic,Basic,392,25.2,16.7,3911,8201,362,2941744,2022770,4964514
+P0973,Urban,1422,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,576,37.2,21.4,5438,12283,657,4277940,3112173,7390113
+P0974,Semi-Urban,1416,2,9.0,RCC Flat Roof,Medium,Lustre Paint,Imported Vitrified Tiles,Premium,619,34.1,25.3,6276,12097,653,7594596,5848025,13442621
+P0975,Urban,1764,2,9.0,RCC Flat Roof,Medium,Royal Emulsion,Granite,Premium,769,49.2,33.5,7422,14590,833,8711889,5707956,14419845
+P0976,Semi-Urban,1431,2,6.0,RCC Sloped Roof,Medium,Royal Emulsion,Italian Marble,Premium,606,34.8,23.9,5916,13139,563,6347033,4808449,11155482
+P0977,Urban,1364,2,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,522,34.1,20.5,6070,13085,516,4280454,3134742,7415196
+P0978,Rural,1725,1,6.0,RCC Flat Roof,Soft,Lustre Paint,Granite,Premium,745,47.6,31.5,7711,14989,694,7032595,4835146,11867741
+P0979,Urban,1356,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,568,30.8,20.9,5770,10873,669,4137249,2864175,7001424
+P0980,Rural,1255,1,9.0,RCC Flat Roof,Hard,Premium Acrylic,Vitrified Tiles,Standard,478,30.5,22.9,4711,11124,449,4201524,2856473,7057997
+P0981,Semi-Urban,1716,1,6.0,RCC Flat Roof,Hard,Royal Emulsion,Imported Vitrified Tiles,Premium,660,43.9,30.3,6891,16724,653,6786794,5279768,12066562
+P0982,Semi-Urban,1168,1,4.5,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,522,27.7,22.8,4567,10245,531,2435864,1909292,4345156
+P0983,Urban,1702,3,6.0,RCC Flat Roof,Hard,Apex Weather Proof,Italian Marble,Premium,724,44.7,32.2,6916,14985,842,6869711,4643517,11513228
+P0984,Semi-Urban,1430,3,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Italian Marble,Premium,549,36.1,27.5,5586,13679,679,6885622,4839291,11724913
+P0985,Urban,1319,2,9.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,581,31.6,20.6,4706,11732,494,4375441,3158470,7533911
+P0986,Semi-Urban,1204,1,9.0,RCC Flat Roof,Soft,Premium Acrylic,Vitrified Tiles,Standard,478,31.4,18.3,5222,10040,547,4234521,3149526,7384047
+P0987,Urban,1420,2,6.0,RCC Flat Roof,Medium,Plastic Emulsion,Vitrified Tiles,Standard,620,32.8,21.9,5436,12565,612,4356813,3124680,7481493
+P0988,Semi-Urban,1425,1,9.0,Slab Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,544,32.8,24.2,5438,11676,591,4084825,2954494,7039319
+P0989,Urban,1694,2,9.0,RCC Flat Roof,Hard,Lustre Paint,Imported Vitrified Tiles,Premium,708,46.7,30.3,6046,15425,739,6576772,4903812,11480584
+P0990,Urban,1116,1,6.0,Metal Sheet Roof,Soft,Distemper,Ceramic Tiles,Basic,485,30.1,19.8,4524,10338,464,2679285,1780155,4459440
+P0991,Urban,1108,1,6.0,Metal Sheet Roof,Soft,Distemper,Ceramic Tiles,Basic,496,27.5,18.8,4315,9803,428,2875755,2085523,4961278
+P0992,Rural,1191,1,6.0,RCC Flat Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,532,33.0,19.9,4930,10799,562,4403561,2964606,7368167
+P0993,Urban,1495,1,9.0,RCC Flat Roof,Medium,Apex Weather Proof,Italian Marble,Premium,609,41.8,27.9,6657,12450,572,7865219,5950652,13815871
+P0994,Urban,1206,2,6.0,Slab Roof,Hard,Plastic Emulsion,Vitrified Tiles,Standard,466,29.9,20.7,5249,11156,537,4766782,2957601,7724383
+P0995,Rural,1433,2,6.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,584,37.7,26.4,6396,12080,620,4562233,3091161,7653394
+P0996,Rural,1679,2,9.0,RCC Flat Roof,Hard,Royal Emulsion,Italian Marble,Premium,659,40.2,25.6,7472,15383,792,6442723,4563196,11005919
+P0997,Rural,1131,1,6.0,Metal Sheet Roof,Medium,Distemper,Ceramic Tiles,Basic,458,25.0,22.4,4428,10832,420,2729180,1754137,4483317
+P0998,Semi-Urban,1719,2,9.0,RCC Flat Roof,Hard,Apex Weather Proof,Imported Vitrified Tiles,Premium,696,39.3,28.6,6068,13823,703,8369931,5207454,13577385
+P0999,Semi-Urban,959,1,6.0,RCC Flat Roof,Hard,Standard Acrylic,Mosaic,Basic,406,25.4,16.9,3949,8428,449,2653162,1858280,4511442
+P1000,Semi-Urban,1231,2,9.0,RCC Flat Roof,Medium,Premium Acrylic,Vitrified Tiles,Standard,470,30.0,24.2,5079,10054,594,4390953,3230476,7621429
