@@ -2,6 +2,20 @@ import streamlit as st
 import pandas as pd
 import joblib
 
+from io import BytesIO
+
+from reportlab.lib import colors
+from reportlab.lib.pagesizes import A4
+from reportlab.lib.styles import getSampleStyleSheet
+from reportlab.lib.enums import TA_CENTER
+from reportlab.platypus import (
+    SimpleDocTemplate,
+    Paragraph,
+    Spacer,
+    Table,
+    TableStyle
+)
+
 # =========================================================
 # PAGE CONFIGURATION
 # =========================================================
@@ -13,7 +27,7 @@ st.set_page_config(
 )
 
 # =========================================================
-# LOAD MODELS AND FEATURE COLUMNS
+# LOAD MODELS
 # =========================================================
 
 @st.cache_resource
@@ -66,6 +80,227 @@ except FileNotFoundError as e:
 
 
 # =========================================================
+# PDF GENERATION FUNCTION
+# =========================================================
+
+def generate_pdf(
+    project_type,
+    input_data,
+    result_data
+):
+
+    buffer = BytesIO()
+
+    doc = SimpleDocTemplate(
+        buffer,
+        pagesize=A4
+    )
+
+    styles = getSampleStyleSheet()
+
+    title_style = styles["Title"]
+    title_style.alignment = TA_CENTER
+
+    story = []
+
+    # -----------------------------------------------------
+    # TITLE
+    # -----------------------------------------------------
+
+    story.append(
+        Paragraph(
+            "ESTIM AI",
+            title_style
+        )
+    )
+
+    story.append(
+        Paragraph(
+            "AI-Powered Construction Estimation Report",
+            styles["Heading2"]
+        )
+    )
+
+    story.append(
+        Spacer(1, 20)
+    )
+
+    story.append(
+        Paragraph(
+            f"<b>Project Type:</b> {project_type}",
+            styles["Normal"]
+        )
+    )
+
+    story.append(
+        Spacer(1, 15)
+    )
+
+    # -----------------------------------------------------
+    # INPUT PARAMETERS
+    # -----------------------------------------------------
+
+    story.append(
+        Paragraph(
+            "Project Parameters",
+            styles["Heading2"]
+        )
+    )
+
+    input_table_data = [
+        ["Parameter", "Value"]
+    ]
+
+    for key, value in input_data.items():
+
+        input_table_data.append(
+            [
+                str(key),
+                str(value)
+            ]
+        )
+
+    input_table = Table(
+        input_table_data,
+        colWidths=[230, 230]
+    )
+
+    input_table.setStyle(
+        TableStyle([
+            (
+                "BACKGROUND",
+                (0, 0),
+                (-1, 0),
+                colors.HexColor("#1F4E78")
+            ),
+
+            (
+                "TEXTCOLOR",
+                (0, 0),
+                (-1, 0),
+                colors.white
+            ),
+
+            (
+                "GRID",
+                (0, 0),
+                (-1, -1),
+                0.5,
+                colors.grey
+            ),
+
+            (
+                "VALIGN",
+                (0, 0),
+                (-1, -1),
+                "MIDDLE"
+            ),
+
+            (
+                "PADDING",
+                (0, 0),
+                (-1, -1),
+                7
+            )
+        ])
+    )
+
+    story.append(input_table)
+
+    story.append(
+        Spacer(1, 20)
+    )
+
+    # -----------------------------------------------------
+    # PREDICTED RESULTS
+    # -----------------------------------------------------
+
+    story.append(
+        Paragraph(
+            "Predicted Estimation Results",
+            styles["Heading2"]
+        )
+    )
+
+    result_table_data = [
+        ["Output", "Predicted Value"]
+    ]
+
+    for key, value in result_data.items():
+
+        result_table_data.append(
+            [
+                str(key),
+                str(value)
+            ]
+        )
+
+    result_table = Table(
+        result_table_data,
+        colWidths=[230, 230]
+    )
+
+    result_table.setStyle(
+        TableStyle([
+            (
+                "BACKGROUND",
+                (0, 0),
+                (-1, 0),
+                colors.HexColor("#008080")
+            ),
+
+            (
+                "TEXTCOLOR",
+                (0, 0),
+                (-1, 0),
+                colors.white
+            ),
+
+            (
+                "GRID",
+                (0, 0),
+                (-1, -1),
+                0.5,
+                colors.grey
+            ),
+
+            (
+                "VALIGN",
+                (0, 0),
+                (-1, -1),
+                "MIDDLE"
+            ),
+
+            (
+                "PADDING",
+                (0, 0),
+                (-1, -1),
+                7
+            )
+        ])
+    )
+
+    story.append(result_table)
+
+    story.append(
+        Spacer(1, 25)
+    )
+
+    story.append(
+        Paragraph(
+            "Generated by ESTIM AI - AI-Powered Construction Estimation System",
+            styles["Normal"]
+        )
+    )
+
+    doc.build(story)
+
+    buffer.seek(0)
+
+    return buffer
+
+
+# =========================================================
 # TITLE
 # =========================================================
 
@@ -84,7 +319,7 @@ st.divider()
 
 
 # =========================================================
-# SELECT CONSTRUCTION TYPE
+# CONSTRUCTION TYPE
 # =========================================================
 
 construction_type = st.selectbox(
@@ -101,21 +336,9 @@ if construction_type == "Building":
 
     st.header("🏠 Building Construction")
 
-    st.write(
-        "Enter the building construction parameters."
-    )
-
-    # -----------------------------------------------------
-    # INPUTS
-    # -----------------------------------------------------
-
     area_type = st.selectbox(
         "Area Type",
-        [
-            "Urban",
-            "Semi-Urban",
-            "Rural"
-        ]
+        ["Urban", "Semi-Urban", "Rural"]
     )
 
     built_up_area = st.number_input(
@@ -189,10 +412,6 @@ if construction_type == "Building":
         ]
     )
 
-    # -----------------------------------------------------
-    # BUILDING PREDICTION
-    # -----------------------------------------------------
-
     if st.button(
         "🔮 Predict Building Estimate",
         use_container_width=True
@@ -223,31 +442,22 @@ if construction_type == "Building":
             ]
         )
 
-        # One-Hot Encoding
-        building_input = pd.get_dummies(
+        building_input_encoded = pd.get_dummies(
             building_input
         )
 
-        # Match exact training features
-        building_input = building_input.reindex(
+        building_input_encoded = building_input_encoded.reindex(
             columns=building_features,
             fill_value=0
         )
 
-        # Prediction
         prediction = building_model.predict(
-            building_input
+            building_input_encoded
         )[0]
-
-        # -------------------------------------------------
-        # DISPLAY RESULTS
-        # -------------------------------------------------
 
         st.divider()
 
-        st.header(
-            "📊 Building Estimation Results"
-        )
+        st.header("📊 Building Estimation Results")
 
         col1, col2 = st.columns(2)
 
@@ -310,6 +520,48 @@ if construction_type == "Building":
                 f"₹{prediction[8]:,.2f}"
             )
 
+        # -------------------------------------------------
+        # PDF DATA
+        # -------------------------------------------------
+
+        building_input_data = {
+            "Area Type": area_type,
+            "Built-Up Area": f"{built_up_area} sq.ft",
+            "Number of Floors": floors,
+            "Wall Thickness": f"{wall_thickness} inches",
+            "Roof Type": roof_type,
+            "Soil Type": soil_type,
+            "Paint Type": paint_type,
+            "Flooring": flooring,
+            "Construction Quality": construction_quality
+        }
+
+        building_result_data = {
+            "Cement Required": f"{prediction[0]:,.2f} bags",
+            "Sand Required": f"{prediction[1]:,.2f} m³",
+            "Aggregate Required": f"{prediction[2]:,.2f} m³",
+            "Steel Required": f"{prediction[3]:,.2f} kg",
+            "Bricks Required": f"{prediction[4]:,.0f} units",
+            "Paint Required": f"{prediction[5]:,.2f} litres",
+            "Material Cost": f"₹{prediction[6]:,.2f}",
+            "Labour Cost": f"₹{prediction[7]:,.2f}",
+            "Total Construction Cost": f"₹{prediction[8]:,.2f}"
+        }
+
+        pdf_file = generate_pdf(
+            "Building Construction",
+            building_input_data,
+            building_result_data
+        )
+
+        st.download_button(
+            label="📄 Download Building Estimation PDF",
+            data=pdf_file,
+            file_name="building_estimation_report.pdf",
+            mime="application/pdf",
+            use_container_width=True
+        )
+
 
 # =========================================================
 # ROAD CONSTRUCTION
@@ -318,14 +570,6 @@ if construction_type == "Building":
 else:
 
     st.header("🛣️ Road Construction")
-
-    st.write(
-        "Enter the road construction parameters."
-    )
-
-    # -----------------------------------------------------
-    # INPUTS
-    # -----------------------------------------------------
 
     road_type = st.selectbox(
         "Road Type",
@@ -381,10 +625,6 @@ else:
         ]
     )
 
-    # -----------------------------------------------------
-    # ROAD PREDICTION
-    # -----------------------------------------------------
-
     if st.button(
         "🔮 Predict Road Estimate",
         use_container_width=True
@@ -411,40 +651,26 @@ else:
             ]
         )
 
-        # One-Hot Encoding
-        road_input = pd.get_dummies(
+        road_input_encoded = pd.get_dummies(
             road_input
         )
 
-        # IMPORTANT:
-        # Match only the Road model features
-        road_input = road_input.reindex(
+        road_input_encoded = road_input_encoded.reindex(
             columns=road_features,
             fill_value=0
         )
 
-        # -------------------------------------------------
-        # SCALED PREDICTION
-        # -------------------------------------------------
-
         scaled_prediction = road_model.predict(
-            road_input
+            road_input_encoded
         )
 
-        # Convert scaled output back to original values
         road_prediction = road_y_scaler.inverse_transform(
             scaled_prediction
         )[0]
 
-        # -------------------------------------------------
-        # DISPLAY RESULTS
-        # -------------------------------------------------
-
         st.divider()
 
-        st.header(
-            "📊 Road Estimation Results"
-        )
+        st.header("📊 Road Estimation Results")
 
         col1, col2 = st.columns(2)
 
@@ -501,6 +727,45 @@ else:
                 "Total Road Cost",
                 f"₹{road_prediction[7]:,.2f}"
             )
+
+        # -------------------------------------------------
+        # PDF DATA
+        # -------------------------------------------------
+
+        road_input_data = {
+            "Road Type": road_type,
+            "Road Length": f"{road_length} km",
+            "Road Width": f"{road_width} m",
+            "Road Thickness": f"{road_thickness} m",
+            "Number of Lanes": number_of_lanes,
+            "Soil Type": soil_type,
+            "Construction Quality": construction_quality
+        }
+
+        road_result_data = {
+            "Aggregate Required": f"{road_prediction[0]:,.2f} m³",
+            "Sand Required": f"{road_prediction[1]:,.2f} m³",
+            "Cement Required": f"{road_prediction[2]:,.2f} tonnes",
+            "Bitumen Required": f"{road_prediction[3]:,.2f} tonnes",
+            "Steel Required": f"{road_prediction[4]:,.2f} tonnes",
+            "Material Cost": f"₹{road_prediction[5]:,.2f}",
+            "Labour Cost": f"₹{road_prediction[6]:,.2f}",
+            "Total Construction Cost": f"₹{road_prediction[7]:,.2f}"
+        }
+
+        pdf_file = generate_pdf(
+            "Road Construction",
+            road_input_data,
+            road_result_data
+        )
+
+        st.download_button(
+            label="📄 Download Road Estimation PDF",
+            data=pdf_file,
+            file_name="road_estimation_report.pdf",
+            mime="application/pdf",
+            use_container_width=True
+        )
 
         st.success(
             "✅ Road construction estimation completed successfully!"
